@@ -1,0 +1,1311 @@
+BrandID;BrandName;Model;Year;Storage;Price;OSID;OSName;Battery;Condition;County;Warranty;Sold
+3;Xiaomi;Redmi Note 12;2023;128;64990;1;Android;5000 to 6000;Jó;Nógrád;Nem;Nem
+1;Samsung;Galaxy S21;2018;128;43990;1;Android;3000 to 4000;Jó;Csongrád-Csanád;Nem;Igen
+3;Xiaomi;Poco X5;2020;128;62990;1;Android;Unknown;Karcos;Zala;Nem;Nem
+8;Nokia;X20;2021;64;118990;1;Android;3000 to 4000;Karcos;Baranya;Nem;Nem
+2;Apple;iPhone 13;2021;256;123990;2;iOS;3000 to 4000;Karcos;Zala;Nem;Igen
+9;Other;Sony Xperia 10;2018;128;45990;1;Android;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Igen;Igen
+9;Other;Sony Xperia 10;2022;128;126990;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Igen;Nem
+5;Motorola;Edge 40;2025;32;279990;1;Android;Under 3000;Karcos;Fejér;Igen;Nem
+6;Huawei;P40 Lite;2022;128;121990;3;HarmonyOS;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy A34;2025;64;175990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone SE;2022;128;136990;2;iOS;5000 to 6000;Jó;Zala;Igen;Igen
+2;Apple;iPhone 14;2020;128;75990;2;iOS;Unknown;Újszerű;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy A54;2023;128;109990;1;Android;4000 to 5000;Újszerű;Baranya;Igen;Nem
+3;Xiaomi;Xiaomi 13;2019;256;71990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+1;Samsung;Galaxy S21;2023;128;215990;1;Android;4000 to 5000;Karcos;Győr-Moson-Sopron;Igen;Nem
+9;Other;Realme 11;2022;64;122990;1;Android;3000 to 4000;Jó;Pest;Nem;Igen
+1;Samsung;Galaxy M33;2019;256;98990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+4;Google;Pixel 8;2023;128;205990;1;Android;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 14;2019;64;77990;2;iOS;Under 3000;Jó;Nógrád;Nem;Igen
+2;Apple;iPhone 12;2017;512;59990;2;iOS;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+4;Google;Pixel 7;2022;128;154990;1;Android;4000 to 5000;Újszerű;Budapest;Igen;Nem
+1;Samsung;Galaxy S23;2025;128;384990;1;Android;4000 to 5000;Újszerű;Győr-Moson-Sopron;Igen;Igen
+1;Samsung;Galaxy S23;2024;128;206990;1;Android;Under 3000;Karcos;Veszprém;Igen;Nem
+2;Apple;iPhone 13;2018;256;59990;2;iOS;3000 to 4000;Karcos;Veszprém;Nem;Igen
+1;Samsung;Galaxy S23;2021;128;142990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2018;128;42990;1;Android;5000 to 6000;Karcos;Veszprém;Nem;Nem
+1;Samsung;Galaxy A54;2022;64;159990;1;Android;3000 to 4000;Hibás;Bács-Kiskun;Nem;Nem
+5;Motorola;Moto G54;2023;128;163990;1;Android;3000 to 4000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+4;Google;Pixel 7;2020;256;70990;1;Android;Under 3000;Újszerű;Pest;Nem;Igen
+1;Samsung;Galaxy M33;2023;256;208990;1;Android;Unknown;Újszerű;Budapest;Nem;Igen
+1;Samsung;Galaxy S21;2018;512;NA;1;Android;4000 to 5000;Jó;Veszprém;Nem;Igen
+2;Apple;iPhone 13;2022;128;149990;2;iOS;4000 to 5000;Hibás;Hajdú-Bihar;Igen;Igen
+2;Apple;iPhone 13;2022;64;NA;2;iOS;3000 to 4000;Jó;Baranya;Nem;Igen
+1;Samsung;Galaxy M33;2019;512;NA;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Nem
+9;Other;Realme 11;2019;64;68990;1;Android;3000 to 4000;Karcos;Hajdú-Bihar;Nem;Igen
+5;Motorola;Moto G54;2022;32;114990;1;Android;Unknown;Újszerű;Budapest;Nem;Nem
+2;Apple;iPhone 11;2023;128;137990;2;iOS;3000 to 4000;Karcos;Pest;Igen;Igen
+1;Samsung;Galaxy S21;2024;256;309990;1;Android;3000 to 4000;Jó;Nógrád;Igen;Nem
+1;Samsung;Galaxy A34;2020;64;61990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy S23;2021;128;116990;1;Android;4000 to 5000;Újszerű;Hajdú-Bihar;Nem;Nem
+9;Other;Honor 90;2025;128;226990;1;Android;4000 to 5000;Karcos;Csongrád-Csanád;Nem;Nem
+9;Other;Oppo A78;2021;64;97990;1;Android;4000 to 5000;Karcos;Budapest;Igen;Igen
+1;Samsung;Galaxy M33;2018;32;32990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+3;Xiaomi;Poco X5;2021;128;94990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy S23;2023;128;134990;1;Android;Above 6000;Hibás;Győr-Moson-Sopron;Nem;Nem
+7;OnePlus;Nord CE;2020;64;93990;1;Android;Under 3000;Újszerű;Nógrád;Nem;Igen
+1;Samsung;Galaxy A34;2025;64;203990;1;Android;4000 to 5000;Jó;Veszprém;Nem;Nem
+1;Samsung;Galaxy A54;2023;128;206990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Igen
+3;Xiaomi;Redmi Note 12;2018;128;54990;1;Android;Under 3000;Karcos;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy A34;2025;256;461990;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Nem
+1;Samsung;Galaxy A34;2025;64;281990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Igen
+2;Apple;iPhone 13;2021;256;131990;2;iOS;3000 to 4000;Jó;Budapest;Igen;Nem
+5;Motorola;Moto E13;2022;256;163990;1;Android;Under 3000;Karcos;Győr-Moson-Sopron;Igen;Nem
+5;Motorola;Moto G54;2020;256;69990;1;Android;4000 to 5000;Karcos;Bács-Kiskun;Nem;Nem
+5;Motorola;Moto G54;2024;128;289990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+2;Apple;iPhone 14;2025;64;269990;2;iOS;4000 to 5000;Jó;Budapest;Igen;Nem
+7;OnePlus;Nord 3;2023;64;124990;1;Android;3000 to 4000;Újszerű;Bács-Kiskun;Nem;Igen
+6;Huawei;P40 Lite;2017;32;NA;1;Android;5000 to 6000;Jó;Hajdú-Bihar;Nem;Nem
+7;OnePlus;Nord CE;2023;64;181990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy A34;2024;64;170990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+5;Motorola;Moto E13;2025;64;344990;1;Android;5000 to 6000;Jó;Pest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2018;128;46990;1;Android;4000 to 5000;Újszerű;Baranya;Nem;Nem
+1;Samsung;Galaxy M33;2021;128;79990;1;Android;Unknown;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 11;2024;64;NA;2;iOS;Unknown;Hibás;Fejér;Nem;Nem
+3;Xiaomi;Poco X5;2022;256;198990;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Igen
+1;Samsung;Galaxy M33;2017;64;39990;4;Unknown;4000 to 5000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 14;2021;64;65990;2;iOS;3000 to 4000;Jó;Budapest;Nem;Igen
+6;Huawei;P40 Lite;2025;256;341990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+1;Samsung;Galaxy S21;2018;256;NA;1;Android;5000 to 6000;Újszerű;Nógrád;Nem;Nem
+6;Huawei;P30;2025;64;271990;1;Android;3000 to 4000;Karcos;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy S21;2025;256;384990;1;Android;Unknown;Karcos;Nógrád;Igen;Igen
+1;Samsung;Galaxy S23;2025;256;252990;1;Android;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 13;2023;64;176990;2;iOS;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+7;OnePlus;OnePlus 9;2018;128;65990;1;Android;5000 to 6000;Karcos;Budapest;Igen;Nem
+2;Apple;iPhone 13;2020;64;74990;2;iOS;5000 to 6000;Hibás;Pest;Nem;Nem
+3;Xiaomi;Redmi Note 12;2021;64;80990;1;Android;Under 3000;Hibás;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2017;128;51990;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Nem
+9;Other;Oppo A78;2022;256;180990;1;Android;5000 to 6000;Karcos;Borsod-Abaúj-Zemplén;Igen;Nem
+1;Samsung;Galaxy A54;2025;512;578990;1;Android;3000 to 4000;Újszerű;Veszprém;Nem;Nem
+1;Samsung;Galaxy S23;2025;128;269990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+4;Google;Pixel 8;2020;128;75990;1;Android;4000 to 5000;Karcos;Veszprém;Igen;Igen
+3;Xiaomi;Xiaomi 13;2022;128;178990;1;Android;Above 6000;Jó;Csongrád-Csanád;Nem;Nem
+5;Motorola;Edge 40;2017;256;56990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Igen;Igen
+8;Nokia;C32;2024;512;319990;1;Android;3000 to 4000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy A34;2025;256;269990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Redmi 10;2019;64;54990;1;Android;5000 to 6000;Karcos;Csongrád-Csanád;Nem;Nem
+5;Motorola;Edge 40;2022;256;158990;4;Unknown;3000 to 4000;Karcos;Veszprém;Igen;Nem
+2;Apple;iPhone 12;2017;128;38990;2;iOS;3000 to 4000;Jó;Zala;Igen;Igen
+1;Samsung;Galaxy M33;2020;128;76990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+3;Xiaomi;Redmi 10;2023;128;128990;1;Android;3000 to 4000;Jó;Fejér;Nem;Nem
+8;Nokia;C32;2019;256;70990;1;Android;4000 to 5000;Karcos;Budapest;Igen;Nem
+1;Samsung;Galaxy S23;2025;512;532990;1;Android;4000 to 5000;Újszerű;Pest;Nem;Igen
+4;Google;Pixel 8;2023;512;218990;1;Android;3000 to 4000;Újszerű;Veszprém;Igen;Igen
+2;Apple;iPhone 14;2025;64;241990;2;iOS;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+7;OnePlus;Nord CE;2022;256;191990;1;Android;5000 to 6000;Hibás;Budapest;Nem;Igen
+1;Samsung;Galaxy M33;2021;32;65990;1;Android;3000 to 4000;Karcos;Veszprém;Nem;Nem
+2;Apple;iPhone 11;2021;128;72990;2;iOS;3000 to 4000;Karcos;Csongrád-Csanád;Nem;Nem
+7;OnePlus;Nord 3;2019;128;83990;1;Android;Above 6000;Jó;Zala;Nem;Nem
+8;Nokia;X20;2021;512;146990;1;Android;5000 to 6000;Újszerű;Zala;Nem;Nem
+3;Xiaomi;Redmi 10;2022;128;150990;1;Android;3000 to 4000;Hibás;Borsod-Abaúj-Zemplén;Nem;Nem
+7;OnePlus;OnePlus 9;2020;128;107990;1;Android;3000 to 4000;Jó;Pest;Nem;Nem
+1;Samsung;Galaxy S23;2023;128;223990;1;Android;5000 to 6000;Hibás;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone 12;2017;32;37990;2;iOS;5000 to 6000;Hibás;Pest;Igen;Nem
+2;Apple;iPhone 11;2020;256;112990;2;iOS;3000 to 4000;Jó;Baranya;Nem;Nem
+1;Samsung;Galaxy A54;2017;128;41990;1;Android;Above 6000;Jó;Nógrád;Nem;Nem
+2;Apple;iPhone 11;2019;32;61990;2;iOS;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone 11;2020;512;149990;2;iOS;Above 6000;Karcos;Budapest;Nem;Nem
+1;Samsung;Galaxy A34;2019;64;57990;1;Android;4000 to 5000;Jó;Pest;Igen;Nem
+6;Huawei;P40 Lite;2017;64;31990;3;HarmonyOS;5000 to 6000;Újszerű;Zala;Nem;Igen
+2;Apple;iPhone SE;2024;32;201990;2;iOS;3000 to 4000;Jó;Zala;Igen;Igen
+7;OnePlus;Nord CE;2023;128;144990;1;Android;5000 to 6000;Jó;Budapest;Nem;Igen
+5;Motorola;Edge 40;2019;64;61990;1;Android;Above 6000;Jó;Pest;Igen;Nem
+1;Samsung;Galaxy M33;2022;256;129990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy A34;2020;128;NA;1;Android;5000 to 6000;Újszerű;Pest;Igen;Igen
+2;Apple;iPhone 11;2024;64;NA;2;iOS;5000 to 6000;Hibás;Veszprém;Nem;Igen
+2;Apple;iPhone 14;2023;256;211990;2;iOS;3000 to 4000;Hibás;Veszprém;Igen;Nem
+1;Samsung;Galaxy A54;2025;256;270990;1;Android;3000 to 4000;Hibás;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy M33;2023;64;145990;1;Android;3000 to 4000;Karcos;Fejér;Nem;Igen
+5;Motorola;Edge 40;2017;128;30990;1;Android;3000 to 4000;Hibás;Hajdú-Bihar;Nem;Igen
+8;Nokia;G21;2020;256;78990;1;Android;3000 to 4000;Jó;Veszprém;Nem;Nem
+1;Samsung;Galaxy S23;2018;128;48990;1;Android;3000 to 4000;Újszerű;Győr-Moson-Sopron;Nem;Igen
+5;Motorola;Edge 40;2023;256;NA;1;Android;4000 to 5000;Újszerű;Fejér;Igen;Nem
+4;Google;Pixel 7;2021;64;113990;1;Android;3000 to 4000;Jó;Budapest;Igen;Igen
+7;OnePlus;Nord 3;2025;128;303990;4;Unknown;4000 to 5000;Hibás;Csongrád-Csanád;Nem;Igen
+5;Motorola;Moto G54;2017;128;31990;1;Android;4000 to 5000;Újszerű;Pest;Nem;Nem
+1;Samsung;Galaxy M33;2023;512;234990;1;Android;3000 to 4000;Jó;Nógrád;Igen;Igen
+1;Samsung;Galaxy S23;2018;32;47990;1;Android;3000 to 4000;Karcos;Pest;Nem;Nem
+2;Apple;iPhone 12;2017;128;43990;2;iOS;5000 to 6000;Jó;Budapest;Nem;Igen
+3;Xiaomi;Xiaomi 13;2020;64;84990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2023;128;200990;1;Android;4000 to 5000;Jó;Baranya;Nem;Nem
+3;Xiaomi;Xiaomi 13;2023;32;162990;1;Android;5000 to 6000;Karcos;Nógrád;Nem;Igen
+3;Xiaomi;Redmi 10;2020;128;87990;1;Android;3000 to 4000;Újszerű;Baranya;Nem;Nem
+3;Xiaomi;Xiaomi 13;2020;64;95990;1;Android;4000 to 5000;Jó;Veszprém;Nem;Nem
+5;Motorola;Moto G54;2025;128;253990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+6;Huawei;P30;2018;32;48990;1;Android;Under 3000;Újszerű;Bács-Kiskun;Igen;Igen
+1;Samsung;Galaxy A54;2023;128;123990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+1;Samsung;Galaxy S21;2023;256;170990;1;Android;Under 3000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+2;Apple;iPhone SE;2022;64;122990;2;iOS;3000 to 4000;Jó;Veszprém;Igen;Igen
+1;Samsung;Galaxy S21;2020;128;63990;1;Android;3000 to 4000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy A34;2017;64;25990;1;Android;Unknown;Hibás;Veszprém;Nem;Nem
+3;Xiaomi;Redmi 10;2018;512;67990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Igen;Nem
+8;Nokia;X20;2022;256;214990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+8;Nokia;C32;2020;128;105990;1;Android;3000 to 4000;Karcos;Csongrád-Csanád;Nem;Igen
+9;Other;Realme 11;2023;128;186990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+9;Other;Realme 11;2019;128;86990;1;Android;3000 to 4000;Hibás;Pest;Nem;Igen
+8;Nokia;X20;2021;128;59990;1;Android;4000 to 5000;Újszerű;Zala;Igen;Nem
+1;Samsung;Galaxy M33;2023;64;164990;1;Android;5000 to 6000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone SE;2022;128;112990;2;iOS;5000 to 6000;Karcos;Csongrád-Csanád;Igen;Nem
+1;Samsung;Galaxy A54;2021;256;167990;1;Android;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Nem;Igen
+1;Samsung;Galaxy S21;2018;256;69990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+5;Motorola;Moto E13;2017;256;49990;1;Android;Unknown;Jó;Csongrád-Csanád;Igen;Nem
+3;Xiaomi;Redmi Note 12;2020;32;94990;4;Unknown;4000 to 5000;Újszerű;Fejér;Nem;Nem
+3;Xiaomi;Xiaomi 13;2025;64;302990;1;Android;5000 to 6000;Újszerű;Pest;Nem;Igen
+3;Xiaomi;Poco X5;2022;128;113990;1;Android;5000 to 6000;Karcos;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy A54;2017;256;46990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+7;OnePlus;Nord CE;2018;64;46990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+1;Samsung;Galaxy S21;2021;32;84990;1;Android;4000 to 5000;Karcos;Pest;Nem;Igen
+1;Samsung;Galaxy S21;2022;64;108990;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy M33;2019;256;91990;1;Android;Under 3000;Jó;Baranya;Igen;Nem
+9;Other;Realme 11;2017;32;40990;1;Android;Unknown;Újszerű;Baranya;Nem;Nem
+2;Apple;iPhone 11;2018;128;41990;2;iOS;5000 to 6000;Jó;Budapest;Nem;Nem
+8;Nokia;X20;2017;32;NA;1;Android;3000 to 4000;Újszerű;Baranya;Igen;Igen
+1;Samsung;Galaxy A34;2021;128;82990;1;Android;3000 to 4000;Karcos;Bács-Kiskun;Nem;Nem
+9;Other;Realme 11;2025;128;NA;1;Android;Unknown;Jó;Pest;Igen;Igen
+9;Other;Honor 90;2023;512;362990;1;Android;5000 to 6000;Jó;Csongrád-Csanád;Nem;Igen
+2;Apple;iPhone SE;2021;64;117990;2;iOS;Under 3000;Újszerű;Budapest;Igen;Nem
+1;Samsung;Galaxy S23;2022;512;290990;1;Android;4000 to 5000;Jó;Fejér;Igen;Nem
+2;Apple;iPhone 11;2021;128;104990;2;iOS;3000 to 4000;Jó;Budapest;Nem;Igen
+7;OnePlus;OnePlus 9;2023;128;NA;1;Android;4000 to 5000;Újszerű;Fejér;Nem;Nem
+1;Samsung;Galaxy A54;2017;64;33990;1;Android;Under 3000;Karcos;Bács-Kiskun;Nem;Nem
+7;OnePlus;Nord 3;2024;128;221990;1;Android;4000 to 5000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+7;OnePlus;Nord CE;2021;64;74990;1;Android;3000 to 4000;Jó;Veszprém;Nem;Nem
+1;Samsung;Galaxy M33;2024;256;304990;1;Android;4000 to 5000;Karcos;Borsod-Abaúj-Zemplén;Igen;Nem
+6;Huawei;P40 Lite;2022;128;156990;3;HarmonyOS;3000 to 4000;Karcos;Baranya;Nem;Nem
+1;Samsung;Galaxy A54;2019;128;56990;4;Unknown;5000 to 6000;Jó;Budapest;Igen;Igen
+4;Google;Pixel 6a;2024;256;363990;1;Android;Above 6000;Jó;Budapest;Nem;Nem
+6;Huawei;P30;2024;64;272990;3;HarmonyOS;4000 to 5000;Újszerű;Budapest;Nem;Igen
+7;OnePlus;Nord 3;2019;256;66990;1;Android;3000 to 4000;Karcos;Nógrád;Igen;Igen
+1;Samsung;Galaxy S21;2023;128;197990;1;Android;4000 to 5000;Karcos;Veszprém;Nem;Nem
+9;Other;Sony Xperia 10;2025;64;282990;1;Android;4000 to 5000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 12;2024;64;143990;2;iOS;3000 to 4000;Hibás;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone SE;2019;128;50990;2;iOS;Above 6000;Karcos;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy M33;2017;128;49990;1;Android;5000 to 6000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy A34;2017;256;41990;1;Android;5000 to 6000;Jó;Fejér;Nem;Igen
+1;Samsung;Galaxy S23;2017;512;55990;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Nem;Nem
+3;Xiaomi;Redmi 10;2023;128;200990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 12;2019;256;58990;4;Unknown;5000 to 6000;Karcos;Borsod-Abaúj-Zemplén;Nem;Igen
+6;Huawei;Nova 9;2019;256;72990;3;HarmonyOS;Unknown;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 12;2019;256;59990;2;iOS;4000 to 5000;Jó;Veszprém;Nem;Nem
+2;Apple;iPhone 11;2024;64;146990;2;iOS;4000 to 5000;Újszerű;Veszprém;Nem;Igen
+1;Samsung;Galaxy S23;2021;128;122990;1;Android;4000 to 5000;Újszerű;Pest;Nem;Igen
+1;Samsung;Galaxy S21;2022;128;93990;1;Android;Above 6000;Karcos;Borsod-Abaúj-Zemplén;Igen;Nem
+1;Samsung;Galaxy A34;2020;64;91990;1;Android;4000 to 5000;Újszerű;Hajdú-Bihar;Nem;Igen
+9;Other;Oppo A78;2023;64;168990;1;Android;3000 to 4000;Hibás;Baranya;Igen;Nem
+9;Other;Realme 11;2025;128;214990;1;Android;5000 to 6000;Újszerű;Nógrád;Nem;Nem
+1;Samsung;Galaxy A34;2025;256;313990;1;Android;4000 to 5000;Újszerű;Pest;Nem;Nem
+3;Xiaomi;Redmi Note 12;2021;64;118990;1;Android;Under 3000;Karcos;Budapest;Nem;Nem
+2;Apple;iPhone SE;2019;256;78990;2;iOS;3000 to 4000;Újszerű;Pest;Igen;Nem
+1;Samsung;Galaxy A54;2017;128;44990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+3;Xiaomi;Redmi Note 12;2018;32;36990;1;Android;5000 to 6000;Jó;Zala;Nem;Nem
+6;Huawei;P40 Lite;2021;256;147990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone SE;2018;64;38990;2;iOS;4000 to 5000;Jó;Fejér;Nem;Nem
+2;Apple;iPhone SE;2023;128;176990;2;iOS;3000 to 4000;Karcos;Budapest;Nem;Igen
+6;Huawei;Nova 9;2022;64;NA;3;HarmonyOS;4000 to 5000;Újszerű;Bács-Kiskun;Igen;Nem
+2;Apple;iPhone 11;2024;128;300990;2;iOS;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+7;OnePlus;OnePlus 9;2024;64;199990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+2;Apple;iPhone 12;2019;64;56990;2;iOS;4000 to 5000;Jó;Hajdú-Bihar;Igen;Igen
+6;Huawei;P30;2017;256;62990;3;HarmonyOS;5000 to 6000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+3;Xiaomi;Redmi 10;2017;128;47990;1;Android;Unknown;Jó;Budapest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2024;128;255990;1;Android;3000 to 4000;Hibás;Veszprém;Nem;Igen
+1;Samsung;Galaxy A54;2023;256;180990;1;Android;4000 to 5000;Hibás;Bács-Kiskun;Nem;Igen
+9;Other;Sony Xperia 10;2018;128;58990;1;Android;3000 to 4000;Jó;Fejér;Nem;Nem
+1;Samsung;Galaxy M33;2020;512;156990;1;Android;Above 6000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+1;Samsung;Galaxy M33;2018;256;44990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+7;OnePlus;Nord CE;2025;128;205990;1;Android;5000 to 6000;Karcos;Csongrád-Csanád;Nem;Nem
+2;Apple;iPhone 14;2022;128;139990;2;iOS;5000 to 6000;Jó;Budapest;Nem;Nem
+5;Motorola;Moto E13;2019;128;73990;1;Android;Under 3000;Karcos;Fejér;Nem;Igen
+7;OnePlus;Nord CE;2021;256;147990;1;Android;3000 to 4000;Újszerű;Hajdú-Bihar;Igen;Igen
+7;OnePlus;Nord CE;2024;128;277990;1;Android;4000 to 5000;Karcos;Fejér;Nem;Nem
+1;Samsung;Galaxy A34;2018;64;NA;1;Android;4000 to 5000;Jó;Fejér;Igen;Nem
+3;Xiaomi;Redmi Note 12;2023;64;145990;1;Android;4000 to 5000;Hibás;Győr-Moson-Sopron;Nem;Nem
+7;OnePlus;Nord 3;2023;128;139990;1;Android;4000 to 5000;Újszerű;Hajdú-Bihar;Igen;Nem
+2;Apple;iPhone SE;2024;128;294990;2;iOS;Unknown;Karcos;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy S21;2019;128;67990;1;Android;4000 to 5000;Karcos;Pest;Nem;Igen
+8;Nokia;X20;2025;64;312990;1;Android;4000 to 5000;Újszerű;Fejér;Nem;Nem
+6;Huawei;P40 Lite;2017;64;46990;1;Android;3000 to 4000;Újszerű;Pest;Nem;Igen
+7;OnePlus;Nord 3;2025;64;261990;1;Android;4000 to 5000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+7;OnePlus;Nord 3;2019;256;76990;1;Android;3000 to 4000;Újszerű;Győr-Moson-Sopron;Igen;Igen
+7;OnePlus;Nord 3;2020;64;68990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+1;Samsung;Galaxy A54;2020;128;69990;1;Android;4000 to 5000;Jó;Pest;Igen;Nem
+6;Huawei;P30;2023;512;334990;3;HarmonyOS;Unknown;Jó;Fejér;Nem;Nem
+7;OnePlus;Nord CE;2022;512;235990;1;Android;3000 to 4000;Karcos;Bács-Kiskun;Nem;Nem
+3;Xiaomi;Poco X5;2018;128;34990;1;Android;Under 3000;Jó;Nógrád;Igen;Nem
+1;Samsung;Galaxy S23;2021;64;77990;1;Android;3000 to 4000;Karcos;Hajdú-Bihar;Nem;Nem
+7;OnePlus;Nord 3;2024;256;274990;1;Android;4000 to 5000;Jó;Nógrád;Nem;Nem
+9;Other;Oppo A78;2018;128;50990;1;Android;4000 to 5000;Hibás;Fejér;Nem;Nem
+1;Samsung;Galaxy M33;2019;64;65990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Poco X5;2021;256;102990;1;Android;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+1;Samsung;Galaxy M33;2021;32;82990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+6;Huawei;Nova 9;2018;128;50990;1;Android;3000 to 4000;Hibás;Hajdú-Bihar;Nem;Nem
+2;Apple;iPhone 13;2023;128;164990;2;iOS;Unknown;Jó;Hajdú-Bihar;Igen;Nem
+8;Nokia;C32;2017;128;44990;1;Android;4000 to 5000;Jó;Pest;Nem;Nem
+1;Samsung;Galaxy A54;2023;128;167990;1;Android;Under 3000;Jó;Pest;Nem;Igen
+5;Motorola;Edge 40;2025;128;310990;1;Android;5000 to 6000;Hibás;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Xiaomi 13;2022;128;181990;1;Android;5000 to 6000;Újszerű;Veszprém;Nem;Nem
+9;Other;Sony Xperia 10;2019;256;NA;1;Android;3000 to 4000;Jó;Pest;Nem;Nem
+5;Motorola;Moto E13;2017;64;38990;1;Android;3000 to 4000;Hibás;Nógrád;Nem;Nem
+8;Nokia;X20;2018;64;44990;1;Android;3000 to 4000;Karcos;Zala;Nem;Nem
+2;Apple;iPhone 14;2017;128;31990;2;iOS;4000 to 5000;Újszerű;Pest;Nem;Nem
+3;Xiaomi;Redmi Note 12;2018;128;55990;1;Android;3000 to 4000;Hibás;Győr-Moson-Sopron;Igen;Nem
+2;Apple;iPhone SE;2018;256;47990;2;iOS;Under 3000;Karcos;Veszprém;Nem;Nem
+7;OnePlus;Nord CE;2024;256;235990;1;Android;4000 to 5000;Karcos;Baranya;Igen;Nem
+4;Google;Pixel 8;2025;512;496990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2018;128;55990;1;Android;Above 6000;Jó;Pest;Igen;Nem
+6;Huawei;P40 Lite;2017;64;33990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Igen
+5;Motorola;Moto E13;2019;64;73990;1;Android;Under 3000;Karcos;Budapest;Nem;Nem
+5;Motorola;Edge 40;2025;512;375990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+4;Google;Pixel 7;2018;128;48990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Igen
+1;Samsung;Galaxy S23;2018;128;54990;1;Android;Unknown;Jó;Budapest;Igen;Nem
+3;Xiaomi;Xiaomi 13;2023;64;151990;1;Android;4000 to 5000;Jó;Pest;Igen;Igen
+1;Samsung;Galaxy A54;2023;128;208990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone 14;2023;256;228990;2;iOS;4000 to 5000;Karcos;Veszprém;Nem;Nem
+4;Google;Pixel 6a;2025;512;520990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Igen;Igen
+2;Apple;iPhone 13;2025;256;277990;2;iOS;4000 to 5000;Jó;Fejér;Nem;Nem
+9;Other;Sony Xperia 10;2021;64;117990;1;Android;4000 to 5000;Jó;Budapest;Igen;Igen
+9;Other;Realme 11;2024;64;141990;1;Android;5000 to 6000;Újszerű;Fejér;Igen;Igen
+9;Other;Sony Xperia 10;2020;128;84990;1;Android;4000 to 5000;Újszerű;Budapest;Nem;Nem
+7;OnePlus;OnePlus 9;2023;256;204990;1;Android;Under 3000;Karcos;Csongrád-Csanád;Nem;Nem
+2;Apple;iPhone 13;2021;256;86990;2;iOS;3000 to 4000;Karcos;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy S23;2025;64;321990;1;Android;Above 6000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy S21;2017;128;35990;1;Android;5000 to 6000;Hibás;Fejér;Nem;Nem
+7;OnePlus;OnePlus 9;2020;512;143990;1;Android;Under 3000;Jó;Pest;Nem;Igen
+1;Samsung;Galaxy A34;2020;128;77990;1;Android;Above 6000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone 13;2025;32;283990;2;iOS;Unknown;Jó;Hajdú-Bihar;Nem;Igen
+6;Huawei;Nova 9;2023;64;143990;1;Android;5000 to 6000;Újszerű;Veszprém;Nem;Nem
+9;Other;Sony Xperia 10;2023;128;164990;1;Android;3000 to 4000;Karcos;Budapest;Igen;Nem
+6;Huawei;P40 Lite;2020;256;NA;4;Unknown;3000 to 4000;Jó;Veszprém;Nem;Igen
+1;Samsung;Galaxy S21;2017;128;41990;1;Android;4000 to 5000;Jó;Baranya;Igen;Nem
+4;Google;Pixel 7;2021;128;79990;1;Android;Unknown;Újszerű;Budapest;Nem;Nem
+6;Huawei;P40 Lite;2025;128;380990;3;HarmonyOS;Unknown;Jó;Pest;Igen;Igen
+3;Xiaomi;Redmi Note 12;2020;64;93990;1;Android;3000 to 4000;Jó;Zala;Nem;Nem
+5;Motorola;Moto E13;2025;64;284990;1;Android;3000 to 4000;Újszerű;Baranya;Nem;Igen
+3;Xiaomi;Redmi 10;2024;128;NA;1;Android;Unknown;Hibás;Fejér;Igen;Nem
+1;Samsung;Galaxy S21;2025;128;348990;1;Android;5000 to 6000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone 14;2018;32;39990;2;iOS;Above 6000;Újszerű;Hajdú-Bihar;Nem;Nem
+4;Google;Pixel 6a;2019;128;65990;1;Android;3000 to 4000;Jó;Nógrád;Nem;Igen
+2;Apple;iPhone 14;2017;512;63990;2;iOS;4000 to 5000;Jó;Csongrád-Csanád;Igen;Igen
+9;Other;Oppo A78;2021;256;167990;1;Android;4000 to 5000;Karcos;Bács-Kiskun;Nem;Igen
+2;Apple;iPhone 11;2020;512;164990;2;iOS;Under 3000;Jó;Baranya;Nem;Nem
+7;OnePlus;OnePlus 9;2025;64;322990;1;Android;4000 to 5000;Jó;Pest;Nem;Nem
+3;Xiaomi;Redmi Note 12;2024;256;240990;1;Android;Under 3000;Jó;Budapest;Igen;Igen
+1;Samsung;Galaxy A54;2024;64;229990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2021;64;112990;4;Unknown;3000 to 4000;Karcos;Veszprém;Igen;Igen
+2;Apple;iPhone 11;2021;128;80990;2;iOS;3000 to 4000;Jó;Csongrád-Csanád;Nem;Nem
+6;Huawei;Nova 9;2017;128;37990;3;HarmonyOS;4000 to 5000;Jó;Csongrád-Csanád;Igen;Nem
+1;Samsung;Galaxy M33;2020;128;91990;1;Android;Above 6000;Újszerű;Budapest;Nem;Nem
+2;Apple;iPhone 13;2019;128;67990;2;iOS;5000 to 6000;Karcos;Bács-Kiskun;Nem;Igen
+6;Huawei;Nova 9;2021;64;84990;3;HarmonyOS;5000 to 6000;Karcos;Veszprém;Igen;Nem
+7;OnePlus;OnePlus 9;2020;64;95990;1;Android;5000 to 6000;Karcos;Budapest;Igen;Igen
+1;Samsung;Galaxy M33;2021;128;118990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 12;2021;128;95990;2;iOS;5000 to 6000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+4;Google;Pixel 6a;2022;64;164990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+6;Huawei;P40 Lite;2019;128;80990;4;Unknown;3000 to 4000;Jó;Fejér;Igen;Nem
+1;Samsung;Galaxy S21;2017;128;37990;1;Android;4000 to 5000;Újszerű;Győr-Moson-Sopron;Nem;Igen
+8;Nokia;X20;2017;64;25990;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Nem
+2;Apple;iPhone 13;2017;32;27990;2;iOS;4000 to 5000;Újszerű;Hajdú-Bihar;Nem;Nem
+2;Apple;iPhone 12;2018;64;59990;2;iOS;4000 to 5000;Karcos;Veszprém;Nem;Nem
+2;Apple;iPhone 11;2025;128;257990;2;iOS;3000 to 4000;Karcos;Zala;Nem;Igen
+1;Samsung;Galaxy S21;2024;64;NA;1;Android;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+3;Xiaomi;Redmi 10;2025;128;256990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+9;Other;Realme 11;2023;128;220990;1;Android;4000 to 5000;Újszerű;Baranya;Nem;Nem
+3;Xiaomi;Redmi 10;2024;32;158990;1;Android;3000 to 4000;Újszerű;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy A34;2019;128;55990;1;Android;4000 to 5000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+5;Motorola;Moto E13;2025;256;286990;1;Android;4000 to 5000;Újszerű;Zala;Nem;Nem
+4;Google;Pixel 8;2023;64;139990;4;Unknown;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 13;2021;512;119990;2;iOS;5000 to 6000;Újszerű;Budapest;Igen;Igen
+2;Apple;iPhone 14;2019;128;74990;2;iOS;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy S21;2021;256;113990;1;Android;3000 to 4000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+8;Nokia;G21;2022;64;122990;1;Android;3000 to 4000;Jó;Pest;Nem;Nem
+2;Apple;iPhone SE;2025;256;292990;2;iOS;4000 to 5000;Karcos;Hajdú-Bihar;Nem;Igen
+3;Xiaomi;Xiaomi 13;2025;512;496990;1;Android;Under 3000;Jó;Zala;Igen;Nem
+1;Samsung;Galaxy M33;2022;128;NA;1;Android;Under 3000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy M33;2020;256;112990;1;Android;4000 to 5000;Újszerű;Zala;Nem;Nem
+2;Apple;iPhone 12;2017;256;54990;2;iOS;4000 to 5000;Karcos;Budapest;Nem;Nem
+2;Apple;iPhone 12;2017;128;52990;2;iOS;4000 to 5000;Karcos;Budapest;Nem;Igen
+1;Samsung;Galaxy A54;2020;32;76990;1;Android;3000 to 4000;Karcos;Hajdú-Bihar;Nem;Igen
+6;Huawei;Nova 9;2023;128;183990;3;HarmonyOS;3000 to 4000;Jó;Budapest;Igen;Nem
+1;Samsung;Galaxy S23;2018;128;42990;1;Android;Unknown;Karcos;Fejér;Nem;Nem
+5;Motorola;Moto G54;2025;256;371990;1;Android;5000 to 6000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy S21;2022;64;91990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+9;Other;Sony Xperia 10;2023;128;197990;1;Android;3000 to 4000;Jó;Pest;Nem;Igen
+7;OnePlus;OnePlus 9;2021;64;116990;1;Android;Above 6000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+4;Google;Pixel 6a;2020;256;106990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Nem
+3;Xiaomi;Xiaomi 13;2023;256;164990;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Igen;Igen
+5;Motorola;Moto G54;2023;128;129990;1;Android;3000 to 4000;Karcos;Pest;Igen;Nem
+5;Motorola;Moto G54;2023;128;121990;1;Android;Under 3000;Újszerű;Veszprém;Nem;Igen
+2;Apple;iPhone 14;2021;128;97990;2;iOS;Unknown;Jó;Zala;Nem;Igen
+6;Huawei;P30;2019;256;83990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Nem;Igen
+4;Google;Pixel 7;2024;64;153990;1;Android;5000 to 6000;Jó;Budapest;Igen;Igen
+4;Google;Pixel 7;2019;64;54990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 13;2020;256;79990;2;iOS;4000 to 5000;Jó;Csongrád-Csanád;Igen;Nem
+1;Samsung;Galaxy S23;2018;256;55990;1;Android;Under 3000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A34;2019;128;81990;1;Android;3000 to 4000;Jó;Fejér;Igen;Igen
+2;Apple;iPhone SE;2017;128;28990;2;iOS;3000 to 4000;Jó;Zala;Nem;Nem
+1;Samsung;Galaxy A34;2022;256;117990;1;Android;5000 to 6000;Jó;Budapest;Nem;Nem
+9;Other;Honor 90;2018;256;70990;1;Android;Above 6000;Jó;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy A34;2017;128;40990;4;Unknown;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+1;Samsung;Galaxy M33;2024;256;299990;1;Android;3000 to 4000;Hibás;Pest;Igen;Igen
+5;Motorola;Moto E13;2024;256;323990;1;Android;3000 to 4000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+6;Huawei;P40 Lite;2020;128;74990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone 11;2017;512;65990;2;iOS;5000 to 6000;Jó;Csongrád-Csanád;Nem;Nem
+4;Google;Pixel 6a;2022;512;158990;1;Android;Unknown;Jó;Baranya;Nem;Igen
+2;Apple;iPhone 13;2018;32;38990;2;iOS;4000 to 5000;Jó;Nógrád;Nem;Nem
+8;Nokia;C32;2024;128;160990;1;Android;3000 to 4000;Karcos;Hajdú-Bihar;Nem;Nem
+7;OnePlus;Nord CE;2024;256;304990;1;Android;5000 to 6000;Jó;Hajdú-Bihar;Igen;Igen
+3;Xiaomi;Xiaomi 13;2023;256;161990;1;Android;3000 to 4000;Jó;Fejér;Igen;Nem
+2;Apple;iPhone 13;2023;128;183990;2;iOS;4000 to 5000;Karcos;Budapest;Nem;Nem
+4;Google;Pixel 6a;2023;256;152990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+9;Other;Sony Xperia 10;2020;64;70990;1;Android;3000 to 4000;Jó;Baranya;Nem;Nem
+3;Xiaomi;Poco X5;2023;64;NA;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 13;2020;512;161990;2;iOS;5000 to 6000;Jó;Hajdú-Bihar;Igen;Nem
+5;Motorola;Edge 40;2020;512;115990;1;Android;3000 to 4000;Jó;Pest;Igen;Nem
+9;Other;Honor 90;2021;128;106990;1;Android;4000 to 5000;Karcos;Bács-Kiskun;Nem;Igen
+1;Samsung;Galaxy A34;2023;64;190990;1;Android;3000 to 4000;Hibás;Budapest;Igen;Nem
+1;Samsung;Galaxy A54;2019;128;83990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+2;Apple;iPhone 11;2018;64;60990;2;iOS;Under 3000;Jó;Budapest;Nem;Igen
+1;Samsung;Galaxy A54;2021;128;85990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone SE;2024;256;281990;2;iOS;Unknown;Karcos;Győr-Moson-Sopron;Nem;Nem
+8;Nokia;G21;2024;128;243990;1;Android;5000 to 6000;Jó;Bács-Kiskun;Igen;Igen
+2;Apple;iPhone 13;2021;128;123990;2;iOS;4000 to 5000;Újszerű;Győr-Moson-Sopron;Igen;Nem
+9;Other;Realme 11;2024;64;233990;1;Android;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Nem;Igen
+2;Apple;iPhone 13;2025;128;285990;4;Unknown;4000 to 5000;Jó;Baranya;Nem;Igen
+9;Other;Realme 11;2021;128;90990;1;Android;5000 to 6000;Hibás;Baranya;Igen;Nem
+2;Apple;iPhone 14;2021;64;81990;2;iOS;3000 to 4000;Jó;Baranya;Nem;Nem
+2;Apple;iPhone 11;2019;128;46990;2;iOS;3000 to 4000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2018;64;39990;2;iOS;4000 to 5000;Karcos;Budapest;Igen;Nem
+2;Apple;iPhone 13;2020;256;74990;2;iOS;3000 to 4000;Karcos;Nógrád;Igen;Nem
+8;Nokia;C32;2025;512;474990;1;Android;4000 to 5000;Hibás;Győr-Moson-Sopron;Nem;Igen
+7;OnePlus;Nord CE;2025;128;NA;1;Android;4000 to 5000;Hibás;Budapest;Igen;Igen
+2;Apple;iPhone 11;2019;128;62990;2;iOS;4000 to 5000;Hibás;Budapest;Nem;Nem
+1;Samsung;Galaxy S23;2020;512;101990;1;Android;4000 to 5000;Jó;Fejér;Nem;Igen
+1;Samsung;Galaxy S23;2023;256;172990;1;Android;5000 to 6000;Jó;Pest;Nem;Nem
+5;Motorola;Edge 40;2025;256;327990;1;Android;4000 to 5000;Hibás;Csongrád-Csanád;Nem;Nem
+9;Other;Sony Xperia 10;2022;256;161990;1;Android;4000 to 5000;Újszerű;Budapest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2017;64;NA;1;Android;3000 to 4000;Hibás;Budapest;Nem;Nem
+4;Google;Pixel 7;2017;256;40990;1;Android;5000 to 6000;Újszerű;Hajdú-Bihar;Igen;Igen
+8;Nokia;X20;2018;256;68990;1;Android;3000 to 4000;Karcos;Pest;Nem;Nem
+2;Apple;iPhone 12;2025;32;234990;2;iOS;4000 to 5000;Karcos;Budapest;Nem;Nem
+3;Xiaomi;Redmi 10;2021;128;132990;1;Android;Above 6000;Karcos;Hajdú-Bihar;Nem;Nem
+2;Apple;iPhone SE;2020;128;62990;2;iOS;3000 to 4000;Jó;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy M33;2018;32;56990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+9;Other;Oppo A78;2023;128;117990;1;Android;4000 to 5000;Karcos;Zala;Nem;Igen
+1;Samsung;Galaxy A54;2023;128;191990;1;Android;Unknown;Karcos;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy M33;2024;64;187990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Igen
+1;Samsung;Galaxy A34;2018;64;43990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Igen;Igen
+4;Google;Pixel 8;2022;64;NA;1;Android;3000 to 4000;Jó;Csongrád-Csanád;Igen;Igen
+4;Google;Pixel 6a;2017;128;38990;1;Android;Unknown;Jó;Zala;Nem;Nem
+1;Samsung;Galaxy S21;2022;256;175990;1;Android;5000 to 6000;Újszerű;Fejér;Igen;Igen
+1;Samsung;Galaxy A54;2025;128;323990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+1;Samsung;Galaxy S21;2023;64;124990;1;Android;4000 to 5000;Jó;Veszprém;Nem;Nem
+2;Apple;iPhone 14;2021;64;71990;2;iOS;Unknown;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2024;512;270990;2;iOS;4000 to 5000;Jó;Hajdú-Bihar;Igen;Igen
+2;Apple;iPhone 12;2017;128;40990;2;iOS;3000 to 4000;Újszerű;Budapest;Igen;Nem
+1;Samsung;Galaxy A34;2024;128;242990;1;Android;5000 to 6000;Jó;Bács-Kiskun;Igen;Igen
+2;Apple;iPhone 14;2018;128;65990;2;iOS;5000 to 6000;Jó;Zala;Igen;Nem
+8;Nokia;G21;2018;128;35990;1;Android;3000 to 4000;Jó;Baranya;Nem;Igen
+3;Xiaomi;Redmi 10;2018;64;43990;1;Android;Under 3000;Jó;Veszprém;Igen;Nem
+6;Huawei;Nova 9;2017;64;31990;3;HarmonyOS;4000 to 5000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 13;2024;256;314990;2;iOS;4000 to 5000;Jó;Bács-Kiskun;Igen;Igen
+5;Motorola;Edge 40;2022;128;137990;4;Unknown;4000 to 5000;Karcos;Csongrád-Csanád;Nem;Igen
+6;Huawei;P40 Lite;2022;128;126990;3;HarmonyOS;5000 to 6000;Karcos;Budapest;Nem;Igen
+2;Apple;iPhone 12;2022;512;250990;2;iOS;5000 to 6000;Újszerű;Zala;Nem;Nem
+5;Motorola;Moto G54;2025;128;346990;1;Android;3000 to 4000;Karcos;Pest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2022;32;108990;1;Android;Under 3000;Karcos;Budapest;Igen;Nem
+3;Xiaomi;Redmi Note 12;2025;256;377990;1;Android;5000 to 6000;Jó;Pest;Nem;Nem
+3;Xiaomi;Redmi Note 12;2023;128;154990;1;Android;4000 to 5000;Karcos;Budapest;Igen;Nem
+9;Other;Sony Xperia 10;2019;256;NA;1;Android;Unknown;Karcos;Nógrád;Nem;Nem
+2;Apple;iPhone 11;2019;128;60990;2;iOS;Unknown;Hibás;Pest;Nem;Nem
+2;Apple;iPhone 13;2022;32;132990;2;iOS;3000 to 4000;Jó;Budapest;Nem;Igen
+1;Samsung;Galaxy M33;2018;64;31990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+1;Samsung;Galaxy A54;2022;128;141990;1;Android;Unknown;Jó;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Poco X5;2017;128;39990;1;Android;Under 3000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 11;2022;128;124990;2;iOS;Under 3000;Jó;Fejér;Nem;Nem
+5;Motorola;Moto G54;2017;64;35990;1;Android;Unknown;Újszerű;Fejér;Nem;Nem
+1;Samsung;Galaxy A54;2022;128;130990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+6;Huawei;Nova 9;2022;32;NA;3;HarmonyOS;3000 to 4000;Jó;Baranya;Nem;Igen
+5;Motorola;Edge 40;2022;128;92990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 12;2023;256;191990;2;iOS;4000 to 5000;Jó;Zala;Igen;Nem
+9;Other;Realme 11;2024;64;267990;1;Android;5000 to 6000;Jó;Budapest;Nem;Igen
+9;Other;Realme 11;2025;256;340990;1;Android;4000 to 5000;Karcos;Fejér;Igen;Igen
+1;Samsung;Galaxy S21;2024;128;269990;1;Android;3000 to 4000;Karcos;Budapest;Igen;Igen
+2;Apple;iPhone SE;2019;128;71990;2;iOS;4000 to 5000;Hibás;Zala;Nem;Igen
+4;Google;Pixel 8;2022;256;212990;1;Android;Above 6000;Újszerű;Borsod-Abaúj-Zemplén;Igen;Igen
+9;Other;Honor 90;2018;128;37990;1;Android;4000 to 5000;Jó;Zala;Nem;Nem
+3;Xiaomi;Redmi Note 12;2023;128;158990;1;Android;4000 to 5000;Újszerű;Fejér;Nem;Nem
+5;Motorola;Moto G54;2017;128;37990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone 14;2024;128;172990;2;iOS;5000 to 6000;Újszerű;Pest;Nem;Igen
+2;Apple;iPhone SE;2018;128;65990;2;iOS;4000 to 5000;Jó;Pest;Igen;Nem
+8;Nokia;X20;2017;64;37990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+4;Google;Pixel 7;2024;128;NA;1;Android;3000 to 4000;Jó;Fejér;Nem;Igen
+4;Google;Pixel 7;2022;128;152990;1;Android;4000 to 5000;Hibás;Veszprém;Nem;Nem
+7;OnePlus;OnePlus 9;2019;128;NA;1;Android;4000 to 5000;Jó;Fejér;Nem;Nem
+4;Google;Pixel 6a;2021;128;88990;1;Android;Under 3000;Jó;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy A54;2024;512;475990;1;Android;4000 to 5000;Karcos;Veszprém;Igen;Igen
+4;Google;Pixel 6a;2018;64;56990;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Igen;Igen
+3;Xiaomi;Redmi 10;2019;128;79990;1;Android;Under 3000;Jó;Bács-Kiskun;Nem;Igen
+9;Other;Honor 90;2021;128;105990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+7;OnePlus;OnePlus 9;2021;64;81990;1;Android;5000 to 6000;Jó;Veszprém;Nem;Igen
+5;Motorola;Moto E13;2024;256;223990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+3;Xiaomi;Redmi 10;2018;256;64990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Igen;Nem
+1;Samsung;Galaxy A54;2017;64;37990;1;Android;4000 to 5000;Hibás;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy S23;2025;256;251990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Nem
+6;Huawei;P30;2019;512;98990;3;HarmonyOS;3000 to 4000;Karcos;Budapest;Nem;Nem
+6;Huawei;P40 Lite;2019;64;52990;1;Android;3000 to 4000;Karcos;Csongrád-Csanád;Igen;Nem
+8;Nokia;G21;2023;128;135990;1;Android;5000 to 6000;Karcos;Veszprém;Igen;Nem
+2;Apple;iPhone 14;2021;256;156990;2;iOS;3000 to 4000;Karcos;Győr-Moson-Sopron;Igen;Nem
+3;Xiaomi;Xiaomi 13;2021;256;171990;1;Android;4000 to 5000;Újszerű;Budapest;Igen;Igen
+1;Samsung;Galaxy M33;2025;64;283990;1;Android;Unknown;Újszerű;Hajdú-Bihar;Igen;Igen
+1;Samsung;Galaxy A34;2021;64;124990;1;Android;3000 to 4000;Jó;Veszprém;Nem;Igen
+1;Samsung;Galaxy S21;2022;128;104990;1;Android;5000 to 6000;Újszerű;Budapest;Nem;Igen
+6;Huawei;P40 Lite;2018;256;55990;3;HarmonyOS;3000 to 4000;Jó;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy S21;2025;128;200990;1;Android;5000 to 6000;Jó;Pest;Nem;Igen
+2;Apple;iPhone SE;2017;128;43990;2;iOS;5000 to 6000;Karcos;Hajdú-Bihar;Nem;Igen
+2;Apple;iPhone 12;2025;128;376990;2;iOS;4000 to 5000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2020;128;89990;2;iOS;Unknown;Újszerű;Győr-Moson-Sopron;Igen;Igen
+8;Nokia;G21;2019;512;70990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Nem;Igen
+2;Apple;iPhone 13;2020;256;117990;2;iOS;3000 to 4000;Jó;Hajdú-Bihar;Nem;Nem
+2;Apple;iPhone 14;2018;64;57990;2;iOS;Unknown;Jó;Baranya;Nem;Igen
+1;Samsung;Galaxy S23;2019;256;87990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone 11;2017;64;25990;2;iOS;3000 to 4000;Karcos;Nógrád;Igen;Nem
+6;Huawei;Nova 9;2017;128;NA;4;Unknown;Under 3000;Karcos;Pest;Nem;Nem
+5;Motorola;Moto E13;2024;256;318990;1;Android;5000 to 6000;Karcos;Veszprém;Nem;Igen
+2;Apple;iPhone 11;2025;128;228990;2;iOS;3000 to 4000;Jó;Baranya;Nem;Nem
+3;Xiaomi;Xiaomi 13;2017;256;52990;1;Android;Unknown;Hibás;Budapest;Nem;Nem
+7;OnePlus;OnePlus 9;2018;64;59990;1;Android;4000 to 5000;Karcos;Borsod-Abaúj-Zemplén;Igen;Nem
+3;Xiaomi;Redmi 10;2017;256;33990;1;Android;4000 to 5000;Jó;Veszprém;Nem;Nem
+6;Huawei;Nova 9;2025;128;311990;1;Android;3000 to 4000;Jó;Csongrád-Csanád;Igen;Nem
+6;Huawei;P30;2025;128;383990;1;Android;5000 to 6000;Karcos;Pest;Nem;Nem
+7;OnePlus;OnePlus 9;2022;256;NA;1;Android;Under 3000;Jó;Csongrád-Csanád;Nem;Nem
+4;Google;Pixel 7;2018;32;34990;1;Android;5000 to 6000;Karcos;Baranya;Igen;Igen
+3;Xiaomi;Poco X5;2025;256;458990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2025;128;NA;1;Android;3000 to 4000;Hibás;Bács-Kiskun;Nem;Nem
+9;Other;Oppo A78;2025;256;329990;1;Android;5000 to 6000;Karcos;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy A54;2024;256;243990;4;Unknown;3000 to 4000;Jó;Zala;Igen;Nem
+1;Samsung;Galaxy S21;2021;512;197990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+3;Xiaomi;Poco X5;2019;512;106990;1;Android;5000 to 6000;Karcos;Hajdú-Bihar;Igen;Igen
+3;Xiaomi;Xiaomi 13;2017;128;43990;1;Android;Under 3000;Jó;Budapest;Nem;Nem
+9;Other;Realme 11;2022;64;148990;1;Android;Under 3000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+7;OnePlus;Nord CE;2020;512;162990;1;Android;5000 to 6000;Karcos;Pest;Nem;Nem
+3;Xiaomi;Poco X5;2024;128;162990;1;Android;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+1;Samsung;Galaxy S21;2021;256;152990;4;Unknown;5000 to 6000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy A34;2023;64;123990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Nem
+8;Nokia;X20;2020;64;85990;1;Android;5000 to 6000;Jó;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy S21;2019;512;86990;1;Android;3000 to 4000;Jó;Csongrád-Csanád;Nem;Nem
+7;OnePlus;OnePlus 9;2022;64;111990;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Nem;Igen
+2;Apple;iPhone 13;2022;128;164990;2;iOS;5000 to 6000;Újszerű;Zala;Nem;Nem
+7;OnePlus;Nord 3;2018;128;62990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Nem
+4;Google;Pixel 6a;2018;256;50990;1;Android;Above 6000;Karcos;Bács-Kiskun;Nem;Nem
+3;Xiaomi;Redmi Note 12;2017;512;62990;1;Android;4000 to 5000;Jó;Baranya;Nem;Nem
+6;Huawei;P40 Lite;2025;32;NA;1;Android;4000 to 5000;Újszerű;Baranya;Igen;Igen
+4;Google;Pixel 6a;2020;512;157990;1;Android;3000 to 4000;Hibás;Budapest;Nem;Nem
+3;Xiaomi;Redmi Note 12;2019;256;66990;1;Android;3000 to 4000;Hibás;Pest;Nem;Igen
+6;Huawei;P30;2020;256;79990;3;HarmonyOS;4000 to 5000;Újszerű;Pest;Nem;Nem
+7;OnePlus;OnePlus 9;2017;64;37990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone 13;2019;256;52990;2;iOS;3000 to 4000;Újszerű;Borsod-Abaúj-Zemplén;Igen;Igen
+1;Samsung;Galaxy A54;2022;256;125990;1;Android;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Igen;Igen
+2;Apple;iPhone 14;2018;512;NA;2;iOS;3000 to 4000;Jó;Pest;Nem;Igen
+2;Apple;iPhone SE;2024;256;341990;2;iOS;4000 to 5000;Jó;Zala;Nem;Nem
+2;Apple;iPhone 11;2025;512;524990;2;iOS;4000 to 5000;Újszerű;Baranya;Nem;Nem
+1;Samsung;Galaxy A34;2025;128;217990;1;Android;4000 to 5000;Jó;Budapest;Igen;Igen
+2;Apple;iPhone 13;2020;256;96990;2;iOS;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Nem;Igen
+3;Xiaomi;Poco X5;2025;512;475990;1;Android;4000 to 5000;Jó;Zala;Nem;Nem
+8;Nokia;C32;2024;512;406990;1;Android;4000 to 5000;Hibás;Veszprém;Nem;Nem
+1;Samsung;Galaxy A34;2018;32;54990;1;Android;3000 to 4000;Jó;Veszprém;Igen;Nem
+1;Samsung;Galaxy S23;2020;128;92990;1;Android;5000 to 6000;Jó;Bács-Kiskun;Nem;Igen
+8;Nokia;C32;2021;128;80990;1;Android;5000 to 6000;Hibás;Fejér;Nem;Nem
+1;Samsung;Galaxy S23;2020;128;90990;1;Android;Unknown;Karcos;Pest;Nem;Nem
+5;Motorola;Moto E13;2025;128;293990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Igen
+3;Xiaomi;Xiaomi 13;2023;256;219990;1;Android;4000 to 5000;Újszerű;Győr-Moson-Sopron;Igen;Nem
+9;Other;Honor 90;2022;64;116990;1;Android;4000 to 5000;Jó;Baranya;Nem;Nem
+2;Apple;iPhone 12;2018;128;60990;2;iOS;5000 to 6000;Jó;Fejér;Nem;Nem
+3;Xiaomi;Xiaomi 13;2017;256;47990;1;Android;Unknown;Újszerű;Csongrád-Csanád;Nem;Nem
+4;Google;Pixel 6a;2024;128;216990;1;Android;5000 to 6000;Jó;Hajdú-Bihar;Igen;Nem
+2;Apple;iPhone 11;2023;256;212990;2;iOS;4000 to 5000;Karcos;Budapest;Nem;Nem
+1;Samsung;Galaxy A54;2019;128;72990;1;Android;4000 to 5000;Karcos;Baranya;Igen;Nem
+5;Motorola;Moto E13;2021;128;81990;1;Android;5000 to 6000;Hibás;Hajdú-Bihar;Igen;Igen
+8;Nokia;G21;2019;128;75990;4;Unknown;4000 to 5000;Jó;Pest;Nem;Nem
+9;Other;Oppo A78;2017;64;26990;1;Android;Above 6000;Jó;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy S21;2022;256;142990;1;Android;5000 to 6000;Jó;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy A34;2019;256;56990;1;Android;4000 to 5000;Jó;Pest;Nem;Nem
+2;Apple;iPhone 12;2018;128;64990;2;iOS;4000 to 5000;Újszerű;Fejér;Nem;Igen
+5;Motorola;Moto G54;2018;256;63990;1;Android;5000 to 6000;Karcos;Baranya;Nem;Nem
+7;OnePlus;OnePlus 9;2017;128;35990;1;Android;5000 to 6000;Hibás;Pest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2024;256;183990;1;Android;3000 to 4000;Jó;Veszprém;Nem;Nem
+6;Huawei;Nova 9;2021;128;76990;1;Android;5000 to 6000;Karcos;Bács-Kiskun;Nem;Nem
+5;Motorola;Edge 40;2025;128;381990;4;Unknown;5000 to 6000;Karcos;Hajdú-Bihar;Igen;Igen
+2;Apple;iPhone 14;2022;64;85990;2;iOS;Above 6000;Jó;Budapest;Nem;Igen
+4;Google;Pixel 7;2025;128;270990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Igen;Nem
+9;Other;Realme 11;2020;64;93990;1;Android;3000 to 4000;Jó;Veszprém;Igen;Igen
+5;Motorola;Moto G54;2021;128;104990;1;Android;Above 6000;Újszerű;Nógrád;Nem;Nem
+8;Nokia;X20;2021;128;97990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+2;Apple;iPhone 13;2019;64;72990;2;iOS;3000 to 4000;Újszerű;Baranya;Igen;Nem
+4;Google;Pixel 7;2017;64;NA;1;Android;5000 to 6000;Karcos;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy M33;2019;128;80990;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Igen
+3;Xiaomi;Xiaomi 13;2017;128;43990;1;Android;5000 to 6000;Karcos;Bács-Kiskun;Nem;Nem
+4;Google;Pixel 6a;2024;64;150990;1;Android;3000 to 4000;Jó;Veszprém;Nem;Igen
+1;Samsung;Galaxy A34;2020;128;57990;1;Android;4000 to 5000;Jó;Pest;Nem;Nem
+9;Other;Oppo A78;2024;256;235990;1;Android;4000 to 5000;Újszerű;Fejér;Nem;Nem
+4;Google;Pixel 6a;2018;64;33990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+9;Other;Sony Xperia 10;2025;256;342990;1;Android;5000 to 6000;Karcos;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2020;32;51990;1;Android;5000 to 6000;Jó;Pest;Nem;Igen
+5;Motorola;Moto G54;2022;128;104990;1;Android;Under 3000;Jó;Zala;Nem;Nem
+8;Nokia;C32;2023;64;155990;1;Android;3000 to 4000;Jó;Baranya;Nem;Igen
+6;Huawei;Nova 9;2021;64;86990;3;HarmonyOS;5000 to 6000;Hibás;Csongrád-Csanád;Nem;Igen
+5;Motorola;Moto E13;2025;128;207990;1;Android;3000 to 4000;Karcos;Veszprém;Nem;Igen
+3;Xiaomi;Xiaomi 13;2020;64;100990;4;Unknown;4000 to 5000;Jó;Hajdú-Bihar;Igen;Nem
+2;Apple;iPhone 11;2021;128;103990;4;Unknown;3000 to 4000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy S21;2025;64;NA;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Nem
+2;Apple;iPhone 14;2025;128;218990;2;iOS;4000 to 5000;Karcos;Pest;Igen;Nem
+1;Samsung;Galaxy S21;2017;64;41990;1;Android;3000 to 4000;Jó;Pest;Nem;Igen
+7;OnePlus;OnePlus 9;2019;256;77990;1;Android;4000 to 5000;Jó;Baranya;Nem;Igen
+4;Google;Pixel 7;2019;256;62990;1;Android;5000 to 6000;Jó;Zala;Nem;Igen
+2;Apple;iPhone SE;2017;32;41990;2;iOS;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+3;Xiaomi;Xiaomi 13;2024;128;229990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+6;Huawei;Nova 9;2021;128;150990;1;Android;5000 to 6000;Jó;Pest;Nem;Nem
+2;Apple;iPhone 12;2025;64;317990;2;iOS;5000 to 6000;Jó;Veszprém;Nem;Nem
+3;Xiaomi;Redmi 10;2025;256;321990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2021;128;137990;1;Android;5000 to 6000;Újszerű;Fejér;Nem;Igen
+3;Xiaomi;Redmi 10;2022;512;260990;1;Android;3000 to 4000;Újszerű;Nógrád;Nem;Nem
+3;Xiaomi;Redmi 10;2018;256;59990;1;Android;4000 to 5000;Hibás;Baranya;Nem;Nem
+4;Google;Pixel 7;2021;128;78990;1;Android;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Nem;Igen
+4;Google;Pixel 6a;2018;256;47990;1;Android;5000 to 6000;Jó;Baranya;Nem;Nem
+5;Motorola;Moto E13;2024;32;177990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone 11;2017;256;62990;2;iOS;4000 to 5000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone 14;2022;128;120990;2;iOS;Under 3000;Újszerű;Fejér;Igen;Nem
+6;Huawei;P30;2020;128;92990;4;Unknown;Above 6000;Újszerű;Budapest;Nem;Igen
+1;Samsung;Galaxy A54;2017;128;42990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone SE;2019;128;55990;2;iOS;4000 to 5000;Jó;Pest;Igen;Nem
+8;Nokia;X20;2024;128;NA;1;Android;Unknown;Karcos;Zala;Igen;Nem
+3;Xiaomi;Xiaomi 13;2020;64;85990;4;Unknown;4000 to 5000;Jó;Pest;Nem;Nem
+1;Samsung;Galaxy S21;2018;32;NA;1;Android;4000 to 5000;Újszerű;Budapest;Nem;Igen
+2;Apple;iPhone 14;2019;128;81990;2;iOS;Above 6000;Hibás;Győr-Moson-Sopron;Igen;Nem
+7;OnePlus;Nord CE;2017;256;60990;1;Android;3000 to 4000;Karcos;Nógrád;Igen;Igen
+6;Huawei;Nova 9;2025;256;364990;1;Android;3000 to 4000;Újszerű;Zala;Nem;Nem
+1;Samsung;Galaxy A54;2017;64;27990;1;Android;Unknown;Újszerű;Hajdú-Bihar;Nem;Nem
+3;Xiaomi;Redmi Note 12;2023;64;116990;1;Android;3000 to 4000;Jó;Fejér;Nem;Nem
+4;Google;Pixel 7;2023;64;113990;4;Unknown;3000 to 4000;Hibás;Zala;Nem;Nem
+6;Huawei;P40 Lite;2018;128;42990;3;HarmonyOS;3000 to 4000;Újszerű;Veszprém;Nem;Nem
+5;Motorola;Edge 40;2024;256;323990;1;Android;Above 6000;Karcos;Bács-Kiskun;Nem;Nem
+4;Google;Pixel 8;2022;64;127990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Igen
+2;Apple;iPhone 13;2024;32;188990;2;iOS;4000 to 5000;Jó;Budapest;Nem;Nem
+5;Motorola;Edge 40;2025;64;245990;1;Android;4000 to 5000;Jó;Zala;Nem;Igen
+1;Samsung;Galaxy A54;2024;32;216990;1;Android;5000 to 6000;Jó;Zala;Nem;Nem
+3;Xiaomi;Xiaomi 13;2018;128;50990;1;Android;Under 3000;Jó;Hajdú-Bihar;Igen;Nem
+4;Google;Pixel 6a;2018;64;47990;1;Android;5000 to 6000;Jó;Hajdú-Bihar;Nem;Nem
+2;Apple;iPhone 12;2024;256;248990;2;iOS;3000 to 4000;Jó;Budapest;Igen;Nem
+3;Xiaomi;Redmi 10;2024;32;199990;1;Android;Unknown;Újszerű;Borsod-Abaúj-Zemplén;Nem;Nem
+6;Huawei;P30;2023;128;221990;3;HarmonyOS;5000 to 6000;Karcos;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy M33;2024;256;NA;1;Android;Above 6000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy S21;2023;128;226990;1;Android;3000 to 4000;Jó;Csongrád-Csanád;Nem;Igen
+5;Motorola;Moto G54;2023;256;183990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+1;Samsung;Galaxy S21;2017;256;58990;1;Android;5000 to 6000;Jó;Veszprém;Igen;Nem
+6;Huawei;P30;2024;64;261990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+1;Samsung;Galaxy S21;2021;32;116990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Igen
+7;OnePlus;Nord 3;2021;128;104990;1;Android;3000 to 4000;Karcos;Csongrád-Csanád;Nem;Igen
+5;Motorola;Moto G54;2021;512;180990;1;Android;3000 to 4000;Újszerű;Pest;Nem;Igen
+1;Samsung;Galaxy A34;2025;64;346990;1;Android;3000 to 4000;Jó;Fejér;Nem;Igen
+1;Samsung;Galaxy S21;2020;128;85990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Igen;Nem
+9;Other;Realme 11;2017;64;30990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Igen
+2;Apple;iPhone 11;2023;256;163990;2;iOS;4000 to 5000;Jó;Fejér;Igen;Igen
+2;Apple;iPhone 13;2018;64;36990;2;iOS;4000 to 5000;Jó;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy A34;2019;256;89990;1;Android;4000 to 5000;Jó;Budapest;Igen;Igen
+4;Google;Pixel 8;2023;256;215990;1;Android;3000 to 4000;Jó;Pest;Igen;Nem
+6;Huawei;P40 Lite;2018;128;43990;1;Android;3000 to 4000;Jó;Fejér;Nem;Igen
+6;Huawei;P40 Lite;2022;128;161990;3;HarmonyOS;5000 to 6000;Jó;Pest;Nem;Igen
+3;Xiaomi;Xiaomi 13;2025;256;409990;1;Android;3000 to 4000;Hibás;Budapest;Nem;Nem
+1;Samsung;Galaxy S23;2017;128;49990;1;Android;4000 to 5000;Jó;Baranya;Nem;Igen
+7;OnePlus;OnePlus 9;2018;64;58990;1;Android;Under 3000;Hibás;Csongrád-Csanád;Igen;Nem
+5;Motorola;Moto E13;2023;32;160990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Nem
+6;Huawei;Nova 9;2024;256;218990;3;HarmonyOS;4000 to 5000;Jó;Zala;Nem;Nem
+9;Other;Realme 11;2021;128;124990;1;Android;4000 to 5000;Jó;Baranya;Nem;Nem
+4;Google;Pixel 8;2017;256;40990;1;Android;3000 to 4000;Újszerű;Pest;Nem;Igen
+2;Apple;iPhone SE;2017;64;29990;2;iOS;4000 to 5000;Jó;Bács-Kiskun;Igen;Nem
+9;Other;Realme 11;2025;256;331990;1;Android;Unknown;Jó;Pest;Igen;Nem
+2;Apple;iPhone 12;2020;64;72990;2;iOS;4000 to 5000;Hibás;Győr-Moson-Sopron;Nem;Nem
+8;Nokia;X20;2023;256;149990;1;Android;5000 to 6000;Újszerű;Hajdú-Bihar;Nem;Nem
+9;Other;Honor 90;2018;128;63990;1;Android;Unknown;Jó;Budapest;Nem;Igen
+1;Samsung;Galaxy M33;2021;128;133990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+9;Other;Realme 11;2023;32;195990;1;Android;3000 to 4000;Karcos;Nógrád;Nem;Igen
+6;Huawei;P30;2025;256;300990;1;Android;5000 to 6000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy S23;2024;64;164990;1;Android;3000 to 4000;Karcos;Baranya;Igen;Igen
+7;OnePlus;Nord CE;2018;32;46990;1;Android;Under 3000;Jó;Baranya;Igen;Nem
+2;Apple;iPhone 13;2021;256;169990;2;iOS;Above 6000;Jó;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy A34;2024;64;269990;1;Android;3000 to 4000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+1;Samsung;Galaxy S21;2023;128;137990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+1;Samsung;Galaxy A34;2025;128;364990;1;Android;3000 to 4000;Karcos;Fejér;Nem;Nem
+4;Google;Pixel 8;2024;256;323990;1;Android;4000 to 5000;Hibás;Csongrád-Csanád;Nem;Nem
+8;Nokia;C32;2024;128;251990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Igen
+1;Samsung;Galaxy M33;2017;512;61990;1;Android;5000 to 6000;Jó;Budapest;Igen;Igen
+2;Apple;iPhone 14;2017;32;24990;2;iOS;3000 to 4000;Karcos;Baranya;Nem;Nem
+3;Xiaomi;Xiaomi 13;2024;32;136990;1;Android;5000 to 6000;Újszerű;Bács-Kiskun;Nem;Nem
+3;Xiaomi;Poco X5;2017;128;29990;1;Android;4000 to 5000;Jó;Zala;Igen;Nem
+2;Apple;iPhone 14;2025;128;237990;2;iOS;Under 3000;Jó;Győr-Moson-Sopron;Nem;Nem
+6;Huawei;P40 Lite;2020;64;74990;3;HarmonyOS;Above 6000;Karcos;Győr-Moson-Sopron;Nem;Nem
+8;Nokia;X20;2019;128;78990;1;Android;4000 to 5000;Hibás;Veszprém;Nem;Igen
+2;Apple;iPhone 12;2018;256;73990;2;iOS;4000 to 5000;Jó;Nógrád;Nem;Igen
+2;Apple;iPhone 12;2023;128;128990;2;iOS;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+3;Xiaomi;Xiaomi 13;2019;64;51990;1;Android;5000 to 6000;Jó;Pest;Igen;Nem
+9;Other;Honor 90;2019;64;48990;1;Android;3000 to 4000;Karcos;Baranya;Nem;Nem
+1;Samsung;Galaxy S23;2024;256;212990;1;Android;3000 to 4000;Jó;Nógrád;Igen;Nem
+2;Apple;iPhone 12;2022;64;102990;2;iOS;4000 to 5000;Újszerű;Csongrád-Csanád;Nem;Nem
+2;Apple;iPhone 11;2025;128;340990;2;iOS;4000 to 5000;Jó;Veszprém;Nem;Nem
+3;Xiaomi;Redmi 10;2022;32;88990;1;Android;Unknown;Újszerű;Budapest;Igen;Nem
+8;Nokia;C32;2021;64;98990;1;Android;3000 to 4000;Jó;Fejér;Nem;Igen
+3;Xiaomi;Poco X5;2021;32;103990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+2;Apple;iPhone 14;2022;512;212990;2;iOS;4000 to 5000;Hibás;Budapest;Igen;Igen
+7;OnePlus;Nord CE;2017;64;45990;1;Android;Under 3000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 11;2021;256;165990;2;iOS;3000 to 4000;Újszerű;Hajdú-Bihar;Nem;Nem
+6;Huawei;P40 Lite;2017;128;46990;1;Android;Above 6000;Hibás;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Redmi Note 12;2023;128;175990;1;Android;3000 to 4000;Jó;Baranya;Nem;Igen
+1;Samsung;Galaxy M33;2018;128;40990;1;Android;3000 to 4000;Jó;Veszprém;Nem;Nem
+1;Samsung;Galaxy S23;2025;128;266990;1;Android;4000 to 5000;Jó;Fejér;Igen;Nem
+6;Huawei;Nova 9;2022;128;NA;3;HarmonyOS;4000 to 5000;Jó;Budapest;Nem;Nem
+8;Nokia;X20;2021;128;89990;1;Android;4000 to 5000;Karcos;Pest;Igen;Igen
+6;Huawei;Nova 9;2025;256;304990;3;HarmonyOS;3000 to 4000;Karcos;Pest;Nem;Nem
+4;Google;Pixel 6a;2021;256;165990;1;Android;5000 to 6000;Karcos;Pest;Nem;Igen
+1;Samsung;Galaxy A34;2019;256;73990;1;Android;4000 to 5000;Újszerű;Nógrád;Nem;Igen
+8;Nokia;G21;2019;256;66990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone SE;2019;256;77990;2;iOS;4000 to 5000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+9;Other;Oppo A78;2020;64;NA;1;Android;4000 to 5000;Jó;Fejér;Igen;Igen
+2;Apple;iPhone 11;2018;32;42990;2;iOS;3000 to 4000;Jó;Pest;Nem;Igen
+1;Samsung;Galaxy S23;2017;32;24990;1;Android;Unknown;Karcos;Budapest;Igen;Nem
+2;Apple;iPhone 11;2019;128;82990;2;iOS;4000 to 5000;Jó;Zala;Igen;Nem
+2;Apple;iPhone 13;2025;64;349990;2;iOS;3000 to 4000;Újszerű;Baranya;Nem;Nem
+9;Other;Oppo A78;2018;256;55990;1;Android;5000 to 6000;Újszerű;Pest;Igen;Igen
+1;Samsung;Galaxy S23;2023;128;177990;4;Unknown;4000 to 5000;Jó;Fejér;Nem;Nem
+3;Xiaomi;Poco X5;2019;256;85990;1;Android;Unknown;Jó;Hajdú-Bihar;Igen;Nem
+2;Apple;iPhone 11;2020;64;76990;2;iOS;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A54;2025;32;247990;1;Android;4000 to 5000;Karcos;Zala;Igen;Igen
+2;Apple;iPhone SE;2020;128;88990;2;iOS;4000 to 5000;Karcos;Nógrád;Nem;Nem
+2;Apple;iPhone 13;2024;128;217990;2;iOS;4000 to 5000;Jó;Zala;Igen;Nem
+9;Other;Sony Xperia 10;2024;512;296990;1;Android;4000 to 5000;Jó;Pest;Igen;Igen
+2;Apple;iPhone 11;2019;128;51990;2;iOS;5000 to 6000;Újszerű;Budapest;Igen;Igen
+1;Samsung;Galaxy A34;2022;64;95990;1;Android;3000 to 4000;Jó;Pest;Igen;Igen
+7;OnePlus;Nord 3;2018;64;49990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Nem;Nem
+2;Apple;iPhone 13;2020;256;131990;2;iOS;3000 to 4000;Karcos;Budapest;Nem;Nem
+6;Huawei;Nova 9;2018;128;61990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+8;Nokia;G21;2021;256;101990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+3;Xiaomi;Redmi Note 12;2023;128;160990;1;Android;5000 to 6000;Újszerű;Budapest;Nem;Nem
+3;Xiaomi;Redmi 10;2021;32;90990;1;Android;Above 6000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Redmi Note 12;2019;128;71990;1;Android;3000 to 4000;Hibás;Győr-Moson-Sopron;Nem;Igen
+1;Samsung;Galaxy A34;2018;64;48990;1;Android;4000 to 5000;Jó;Pest;Igen;Nem
+3;Xiaomi;Xiaomi 13;2025;128;213990;1;Android;5000 to 6000;Jó;Zala;Nem;Igen
+5;Motorola;Edge 40;2018;256;44990;1;Android;3000 to 4000;Újszerű;Győr-Moson-Sopron;Nem;Igen
+1;Samsung;Galaxy S21;2017;128;50990;4;Unknown;5000 to 6000;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+5;Motorola;Edge 40;2023;128;133990;1;Android;Under 3000;Jó;Nógrád;Nem;Nem
+9;Other;Honor 90;2023;64;127990;1;Android;4000 to 5000;Újszerű;Baranya;Igen;Igen
+1;Samsung;Galaxy S23;2017;256;40990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 14;2020;64;86990;2;iOS;4000 to 5000;Hibás;Bács-Kiskun;Igen;Igen
+9;Other;Realme 11;2020;64;95990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+6;Huawei;Nova 9;2018;128;53990;1;Android;5000 to 6000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy S21;2022;256;159990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+5;Motorola;Moto G54;2018;256;59990;1;Android;3000 to 4000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Xiaomi 13;2022;32;154990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Igen
+3;Xiaomi;Xiaomi 13;2017;64;38990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Igen
+2;Apple;iPhone 14;2020;128;74990;2;iOS;4000 to 5000;Újszerű;Csongrád-Csanád;Igen;Igen
+3;Xiaomi;Redmi Note 12;2019;512;127990;1;Android;5000 to 6000;Jó;Nógrád;Igen;Nem
+6;Huawei;P40 Lite;2022;32;106990;3;HarmonyOS;3000 to 4000;Jó;Hajdú-Bihar;Nem;Igen
+2;Apple;iPhone SE;2018;128;65990;2;iOS;Above 6000;Jó;Budapest;Igen;Nem
+7;OnePlus;Nord 3;2024;128;201990;1;Android;Unknown;Jó;Bács-Kiskun;Nem;Nem
+9;Other;Sony Xperia 10;2023;32;NA;1;Android;3000 to 4000;Karcos;Baranya;Igen;Igen
+2;Apple;iPhone 14;2024;32;184990;4;Unknown;5000 to 6000;Jó;Hajdú-Bihar;Nem;Nem
+8;Nokia;C32;2024;128;191990;1;Android;5000 to 6000;Hibás;Bács-Kiskun;Igen;Nem
+1;Samsung;Galaxy S21;2018;64;45990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+6;Huawei;Nova 9;2021;128;110990;1;Android;5000 to 6000;Karcos;Győr-Moson-Sopron;Igen;Igen
+3;Xiaomi;Poco X5;2023;128;231990;1;Android;5000 to 6000;Jó;Budapest;Igen;Nem
+1;Samsung;Galaxy M33;2019;64;59990;1;Android;3000 to 4000;Jó;Fejér;Nem;Nem
+3;Xiaomi;Xiaomi 13;2021;32;115990;1;Android;3000 to 4000;Újszerű;Csongrád-Csanád;Nem;Nem
+3;Xiaomi;Xiaomi 13;2017;256;52990;1;Android;3000 to 4000;Hibás;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Poco X5;2022;128;168990;1;Android;4000 to 5000;Újszerű;Fejér;Nem;Nem
+9;Other;Realme 11;2024;256;333990;1;Android;4000 to 5000;Hibás;Bács-Kiskun;Igen;Igen
+1;Samsung;Galaxy S23;2021;128;95990;1;Android;Above 6000;Jó;Budapest;Nem;Nem
+8;Nokia;X20;2018;64;57990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Igen;Nem
+4;Google;Pixel 7;2023;512;191990;1;Android;3000 to 4000;Karcos;Baranya;Nem;Nem
+7;OnePlus;Nord 3;2025;64;223990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy S21;2024;256;362990;1;Android;5000 to 6000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone SE;2019;64;65990;2;iOS;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Igen
+8;Nokia;C32;2024;256;299990;1;Android;5000 to 6000;Hibás;Budapest;Nem;Nem
+8;Nokia;C32;2025;256;373990;1;Android;5000 to 6000;Jó;Baranya;Nem;Igen
+2;Apple;iPhone 12;2025;128;249990;2;iOS;Under 3000;Hibás;Pest;Igen;Nem
+2;Apple;iPhone 11;2025;128;266990;2;iOS;3000 to 4000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 14;2022;128;94990;2;iOS;4000 to 5000;Hibás;Budapest;Nem;Nem
+2;Apple;iPhone 13;2017;512;66990;2;iOS;3000 to 4000;Jó;Fejér;Nem;Nem
+8;Nokia;G21;2018;128;58990;1;Android;5000 to 6000;Karcos;Budapest;Nem;Nem
+7;OnePlus;Nord CE;2017;64;37990;1;Android;3000 to 4000;Jó;Bács-Kiskun;Nem;Igen
+2;Apple;iPhone 14;2021;256;88990;2;iOS;5000 to 6000;Újszerű;Budapest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2023;256;218990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+1;Samsung;Galaxy M33;2022;64;146990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Igen;Igen
+9;Other;Oppo A78;2021;128;87990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Nem
+9;Other;Honor 90;2020;128;99990;1;Android;Unknown;Újszerű;Hajdú-Bihar;Igen;Nem
+2;Apple;iPhone 11;2017;128;29990;2;iOS;Under 3000;Jó;Pest;Nem;Igen
+1;Samsung;Galaxy S23;2019;64;45990;1;Android;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Igen;Igen
+1;Samsung;Galaxy S23;2019;512;110990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Igen
+1;Samsung;Galaxy S23;2018;32;56990;1;Android;5000 to 6000;Karcos;Pest;Nem;Igen
+4;Google;Pixel 8;2024;64;246990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Igen
+2;Apple;iPhone 12;2023;256;255990;2;iOS;3000 to 4000;Újszerű;Csongrád-Csanád;Nem;Nem
+9;Other;Honor 90;2020;128;95990;1;Android;4000 to 5000;Hibás;Borsod-Abaúj-Zemplén;Igen;Nem
+3;Xiaomi;Poco X5;2024;512;288990;1;Android;5000 to 6000;Újszerű;Fejér;Nem;Nem
+2;Apple;iPhone 11;2019;128;61990;2;iOS;3000 to 4000;Hibás;Budapest;Nem;Nem
+1;Samsung;Galaxy S21;2019;256;74990;1;Android;4000 to 5000;Hibás;Hajdú-Bihar;Nem;Nem
+3;Xiaomi;Redmi 10;2022;256;219990;1;Android;5000 to 6000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2018;256;NA;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Nem
+4;Google;Pixel 7;2020;64;100990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+1;Samsung;Galaxy M33;2024;128;302990;1;Android;4000 to 5000;Jó;Nógrád;Nem;Igen
+3;Xiaomi;Redmi Note 12;2021;64;78990;1;Android;3000 to 4000;Karcos;Hajdú-Bihar;Igen;Igen
+1;Samsung;Galaxy A54;2017;32;27990;1;Android;4000 to 5000;Karcos;Pest;Igen;Nem
+2;Apple;iPhone 12;2023;64;155990;2;iOS;5000 to 6000;Jó;Budapest;Nem;Nem
+4;Google;Pixel 7;2019;32;46990;1;Android;Unknown;Jó;Fejér;Nem;Nem
+4;Google;Pixel 8;2022;64;124990;1;Android;4000 to 5000;Karcos;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Xiaomi 13;2021;128;89990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+4;Google;Pixel 6a;2017;64;44990;1;Android;5000 to 6000;Újszerű;Pest;Nem;Nem
+6;Huawei;Nova 9;2021;128;117990;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Nem
+4;Google;Pixel 8;2018;64;49990;1;Android;3000 to 4000;Hibás;Nógrád;Igen;Igen
+1;Samsung;Galaxy S23;2020;256;130990;1;Android;3000 to 4000;Hibás;Fejér;Nem;Nem
+1;Samsung;Galaxy M33;2020;128;79990;1;Android;Under 3000;Jó;Bács-Kiskun;Nem;Igen
+2;Apple;iPhone 12;2022;512;244990;2;iOS;4000 to 5000;Újszerű;Fejér;Nem;Nem
+6;Huawei;P30;2022;64;NA;1;Android;Under 3000;Újszerű;Győr-Moson-Sopron;Igen;Igen
+2;Apple;iPhone 11;2017;64;42990;2;iOS;3000 to 4000;Újszerű;Borsod-Abaúj-Zemplén;Igen;Igen
+3;Xiaomi;Xiaomi 13;2017;256;32990;1;Android;3000 to 4000;Hibás;Nógrád;Nem;Nem
+9;Other;Sony Xperia 10;2022;32;152990;1;Android;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Igen;Igen
+1;Samsung;Galaxy M33;2024;128;167990;1;Android;5000 to 6000;Jó;Csongrád-Csanád;Igen;Nem
+9;Other;Sony Xperia 10;2022;128;103990;1;Android;Above 6000;Újszerű;Bács-Kiskun;Nem;Igen
+2;Apple;iPhone SE;2022;256;130990;2;iOS;3000 to 4000;Karcos;Budapest;Nem;Nem
+3;Xiaomi;Redmi 10;2018;64;58990;1;Android;3000 to 4000;Hibás;Zala;Nem;Nem
+3;Xiaomi;Xiaomi 13;2023;128;222990;1;Android;5000 to 6000;Újszerű;Csongrád-Csanád;Nem;Nem
+3;Xiaomi;Xiaomi 13;2018;128;51990;1;Android;4000 to 5000;Karcos;Borsod-Abaúj-Zemplén;Nem;Igen
+8;Nokia;G21;2018;128;62990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A54;2023;128;204990;1;Android;5000 to 6000;Karcos;Győr-Moson-Sopron;Nem;Igen
+9;Other;Oppo A78;2020;256;NA;1;Android;5000 to 6000;Jó;Zala;Nem;Nem
+9;Other;Oppo A78;2025;128;290990;1;Android;4000 to 5000;Karcos;Pest;Nem;Igen
+5;Motorola;Moto E13;2023;256;208990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A54;2019;128;NA;1;Android;4000 to 5000;Újszerű;Győr-Moson-Sopron;Igen;Igen
+6;Huawei;P30;2019;64;71990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+1;Samsung;Galaxy S23;2021;256;169990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+5;Motorola;Moto E13;2019;64;44990;1;Android;5000 to 6000;Karcos;Budapest;Igen;Nem
+7;OnePlus;Nord 3;2017;128;32990;1;Android;Under 3000;Jó;Budapest;Igen;Igen
+6;Huawei;Nova 9;2018;128;43990;3;HarmonyOS;4000 to 5000;Hibás;Budapest;Igen;Nem
+6;Huawei;P30;2023;128;213990;1;Android;4000 to 5000;Karcos;Veszprém;Nem;Nem
+1;Samsung;Galaxy S21;2022;64;143990;4;Unknown;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone 11;2017;64;25990;2;iOS;5000 to 6000;Jó;Pest;Nem;Nem
+2;Apple;iPhone SE;2020;128;77990;2;iOS;4000 to 5000;Karcos;Fejér;Nem;Igen
+1;Samsung;Galaxy M33;2024;128;221990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Igen;Nem
+4;Google;Pixel 8;2022;128;131990;1;Android;5000 to 6000;Újszerű;Budapest;Nem;Nem
+2;Apple;iPhone 14;2023;512;302990;2;iOS;4000 to 5000;Hibás;Hajdú-Bihar;Nem;Nem
+9;Other;Sony Xperia 10;2017;128;48990;1;Android;Under 3000;Karcos;Budapest;Nem;Igen
+1;Samsung;Galaxy A54;2025;64;206990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Igen
+1;Samsung;Galaxy S23;2024;64;NA;1;Android;Unknown;Újszerű;Csongrád-Csanád;Nem;Igen
+3;Xiaomi;Redmi Note 12;2023;128;177990;4;Unknown;4000 to 5000;Karcos;Borsod-Abaúj-Zemplén;Nem;Igen
+9;Other;Honor 90;2017;128;44990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy A54;2018;64;53990;1;Android;3000 to 4000;Karcos;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy M33;2023;128;229990;1;Android;5000 to 6000;Jó;Baranya;Igen;Igen
+1;Samsung;Galaxy S23;2023;128;134990;1;Android;3000 to 4000;Jó;Nógrád;Nem;Nem
+9;Other;Oppo A78;2018;256;45990;1;Android;3000 to 4000;Hibás;Pest;Nem;Igen
+1;Samsung;Galaxy A34;2025;128;324990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Igen;Igen
+9;Other;Oppo A78;2018;128;55990;1;Android;4000 to 5000;Karcos;Zala;Nem;Nem
+1;Samsung;Galaxy M33;2019;128;76990;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Nem;Igen
+1;Samsung;Galaxy A54;2020;64;89990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+5;Motorola;Moto G54;2017;128;42990;1;Android;Under 3000;Karcos;Budapest;Igen;Igen
+3;Xiaomi;Xiaomi 13;2018;64;40990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone 14;2025;128;314990;4;Unknown;3000 to 4000;Karcos;Budapest;Nem;Nem
+6;Huawei;P30;2019;64;42990;1;Android;4000 to 5000;Jó;Pest;Nem;Nem
+1;Samsung;Galaxy A54;2019;64;43990;1;Android;Unknown;Jó;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Xiaomi 13;2019;256;69990;1;Android;4000 to 5000;Karcos;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy S21;2019;128;50990;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Nem;Igen
+4;Google;Pixel 6a;2025;256;323990;1;Android;5000 to 6000;Újszerű;Borsod-Abaúj-Zemplén;Nem;Igen
+6;Huawei;P40 Lite;2020;32;61990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Nem
+4;Google;Pixel 6a;2019;64;72990;1;Android;5000 to 6000;Jó;Veszprém;Igen;Nem
+1;Samsung;Galaxy S21;2025;256;256990;1;Android;Under 3000;Jó;Pest;Nem;Nem
+5;Motorola;Moto E13;2022;512;181990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Nem;Nem
+7;OnePlus;Nord 3;2017;256;48990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Igen
+3;Xiaomi;Xiaomi 13;2024;128;240990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Igen;Nem
+2;Apple;iPhone 14;2017;512;57990;2;iOS;4000 to 5000;Jó;Csongrád-Csanád;Nem;Igen
+9;Other;Realme 11;2017;128;26990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+6;Huawei;P30;2023;64;160990;1;Android;4000 to 5000;Újszerű;Budapest;Nem;Igen
+3;Xiaomi;Poco X5;2023;128;206990;1;Android;4000 to 5000;Újszerű;Pest;Nem;Igen
+3;Xiaomi;Xiaomi 13;2018;64;58990;1;Android;Under 3000;Újszerű;Budapest;Nem;Nem
+6;Huawei;P30;2020;256;103990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+3;Xiaomi;Redmi 10;2024;256;237990;1;Android;Under 3000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 14;2020;256;94990;2;iOS;4000 to 5000;Újszerű;Budapest;Igen;Igen
+2;Apple;iPhone 11;2021;512;185990;2;iOS;5000 to 6000;Jó;Budapest;Nem;Nem
+8;Nokia;G21;2019;128;84990;1;Android;3000 to 4000;Jó;Pest;Nem;Nem
+4;Google;Pixel 6a;2019;256;79990;1;Android;Under 3000;Karcos;Pest;Igen;Nem
+1;Samsung;Galaxy S23;2017;128;32990;1;Android;3000 to 4000;Jó;Veszprém;Nem;Igen
+2;Apple;iPhone 13;2025;64;299990;2;iOS;3000 to 4000;Jó;Veszprém;Nem;Nem
+2;Apple;iPhone 14;2025;128;334990;2;iOS;Under 3000;Jó;Zala;Nem;Igen
+1;Samsung;Galaxy M33;2025;256;242990;1;Android;5000 to 6000;Karcos;Zala;Nem;Nem
+1;Samsung;Galaxy S21;2024;64;211990;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Nem;Nem
+4;Google;Pixel 6a;2021;64;69990;1;Android;4000 to 5000;Jó;Baranya;Nem;Igen
+6;Huawei;P30;2018;128;38990;1;Android;Unknown;Újszerű;Bács-Kiskun;Igen;Nem
+3;Xiaomi;Redmi Note 12;2025;128;253990;1;Android;5000 to 6000;Jó;Budapest;Nem;Igen
+1;Samsung;Galaxy S21;2019;128;77990;1;Android;4000 to 5000;Hibás;Pest;Igen;Nem
+3;Xiaomi;Redmi Note 12;2021;256;87990;1;Android;4000 to 5000;Karcos;Zala;Nem;Nem
+9;Other;Sony Xperia 10;2019;32;64990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2021;32;NA;1;Android;4000 to 5000;Karcos;Bács-Kiskun;Nem;Igen
+3;Xiaomi;Redmi 10;2019;512;124990;1;Android;5000 to 6000;Karcos;Hajdú-Bihar;Nem;Igen
+2;Apple;iPhone 14;2019;64;71990;2;iOS;4000 to 5000;Karcos;Győr-Moson-Sopron;Nem;Igen
+3;Xiaomi;Poco X5;2019;64;39990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy M33;2023;256;184990;1;Android;4000 to 5000;Jó;Baranya;Nem;Igen
+2;Apple;iPhone 11;2017;128;29990;2;iOS;3000 to 4000;Jó;Csongrád-Csanád;Nem;Igen
+2;Apple;iPhone 12;2022;256;177990;2;iOS;4000 to 5000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 12;2019;512;132990;2;iOS;5000 to 6000;Hibás;Pest;Igen;Igen
+3;Xiaomi;Xiaomi 13;2021;128;82990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Igen
+1;Samsung;Galaxy S21;2017;512;54990;4;Unknown;4000 to 5000;Jó;Baranya;Igen;Igen
+2;Apple;iPhone 12;2024;32;255990;2;iOS;Under 3000;Újszerű;Nógrád;Nem;Nem
+1;Samsung;Galaxy A34;2020;256;118990;1;Android;Above 6000;Újszerű;Győr-Moson-Sopron;Nem;Igen
+3;Xiaomi;Xiaomi 13;2017;128;42990;1;Android;3000 to 4000;Karcos;Budapest;Igen;Igen
+1;Samsung;Galaxy A34;2019;64;67990;1;Android;4000 to 5000;Jó;Pest;Nem;Nem
+3;Xiaomi;Redmi 10;2023;256;266990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Igen;Nem
+2;Apple;iPhone SE;2019;128;76990;2;iOS;5000 to 6000;Újszerű;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2019;128;78990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone 13;2025;32;228990;2;iOS;4000 to 5000;Újszerű;Budapest;Nem;Nem
+9;Other;Honor 90;2020;128;97990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+6;Huawei;Nova 9;2024;256;361990;3;HarmonyOS;4000 to 5000;Jó;Baranya;Nem;Nem
+1;Samsung;Galaxy A34;2018;512;95990;1;Android;Under 3000;Karcos;Budapest;Nem;Nem
+2;Apple;iPhone 13;2019;64;45990;2;iOS;Under 3000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2017;64;36990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Igen;Nem
+8;Nokia;G21;2022;128;157990;1;Android;5000 to 6000;Hibás;Fejér;Igen;Igen
+1;Samsung;Galaxy M33;2019;128;77990;1;Android;3000 to 4000;Jó;Veszprém;Nem;Nem
+2;Apple;iPhone 11;2017;128;50990;2;iOS;4000 to 5000;Jó;Fejér;Nem;Nem
+2;Apple;iPhone 13;2023;512;NA;2;iOS;3000 to 4000;Újszerű;Győr-Moson-Sopron;Igen;Nem
+3;Xiaomi;Poco X5;2023;128;291990;1;Android;4000 to 5000;Karcos;Pest;Nem;Nem
+3;Xiaomi;Redmi 10;2019;64;51990;1;Android;Unknown;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy S23;2023;256;289990;1;Android;3000 to 4000;Újszerű;Csongrád-Csanád;Igen;Nem
+3;Xiaomi;Xiaomi 13;2023;128;150990;1;Android;Under 3000;Karcos;Budapest;Igen;Nem
+9;Other;Realme 11;2020;128;59990;1;Android;3000 to 4000;Hibás;Veszprém;Nem;Nem
+3;Xiaomi;Redmi 10;2022;256;203990;1;Android;3000 to 4000;Hibás;Bács-Kiskun;Nem;Nem
+2;Apple;iPhone 12;2023;128;175990;2;iOS;4000 to 5000;Karcos;Baranya;Nem;Nem
+2;Apple;iPhone 12;2018;32;NA;2;iOS;Unknown;Karcos;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone SE;2017;128;NA;2;iOS;Unknown;Jó;Zala;Nem;Nem
+2;Apple;iPhone 12;2024;256;312990;2;iOS;Above 6000;Karcos;Bács-Kiskun;Nem;Nem
+5;Motorola;Moto G54;2017;256;49990;1;Android;5000 to 6000;Újszerű;Nógrád;Nem;Igen
+2;Apple;iPhone 12;2022;64;88990;2;iOS;4000 to 5000;Újszerű;Veszprém;Igen;Nem
+2;Apple;iPhone 13;2020;128;71990;2;iOS;3000 to 4000;Karcos;Fejér;Igen;Nem
+3;Xiaomi;Xiaomi 13;2017;128;36990;1;Android;4000 to 5000;Jó;Pest;Igen;Igen
+5;Motorola;Edge 40;2021;32;93990;1;Android;3000 to 4000;Újszerű;Veszprém;Nem;Igen
+2;Apple;iPhone SE;2023;128;198990;2;iOS;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Igen
+1;Samsung;Galaxy S23;2025;256;339990;1;Android;4000 to 5000;Újszerű;Hajdú-Bihar;Igen;Igen
+6;Huawei;P30;2025;512;618990;3;HarmonyOS;Unknown;Karcos;Zala;Nem;Nem
+3;Xiaomi;Redmi 10;2019;256;78990;1;Android;4000 to 5000;Karcos;Borsod-Abaúj-Zemplén;Nem;Igen
+3;Xiaomi;Poco X5;2017;128;50990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 14;2021;64;94990;2;iOS;Under 3000;Jó;Fejér;Nem;Nem
+7;OnePlus;Nord 3;2017;128;30990;1;Android;Under 3000;Újszerű;Budapest;Igen;Nem
+1;Samsung;Galaxy S21;2024;256;322990;1;Android;Above 6000;Jó;Veszprém;Igen;Nem
+9;Other;Sony Xperia 10;2023;64;151990;1;Android;5000 to 6000;Jó;Zala;Nem;Nem
+6;Huawei;P30;2024;256;294990;3;HarmonyOS;Under 3000;Karcos;Győr-Moson-Sopron;Igen;Igen
+2;Apple;iPhone 13;2025;512;563990;2;iOS;5000 to 6000;Jó;Pest;Nem;Nem
+1;Samsung;Galaxy S23;2018;256;54990;1;Android;3000 to 4000;Jó;Baranya;Igen;Igen
+3;Xiaomi;Redmi Note 12;2022;256;117990;1;Android;3000 to 4000;Karcos;Csongrád-Csanád;Nem;Igen
+1;Samsung;Galaxy S23;2017;128;34990;1;Android;3000 to 4000;Jó;Pest;Nem;Nem
+6;Huawei;P40 Lite;2024;256;344990;1;Android;3000 to 4000;Újszerű;Borsod-Abaúj-Zemplén;Nem;Igen
+9;Other;Oppo A78;2022;32;86990;1;Android;5000 to 6000;Jó;Veszprém;Igen;Nem
+2;Apple;iPhone SE;2023;128;156990;2;iOS;3000 to 4000;Jó;Bács-Kiskun;Igen;Nem
+4;Google;Pixel 8;2023;128;226990;1;Android;Above 6000;Karcos;Fejér;Nem;Nem
+1;Samsung;Galaxy M33;2022;128;104990;4;Unknown;4000 to 5000;Karcos;Baranya;Igen;Igen
+9;Other;Honor 90;2019;128;81990;1;Android;4000 to 5000;Hibás;Hajdú-Bihar;Igen;Nem
+8;Nokia;C32;2017;256;45990;1;Android;5000 to 6000;Hibás;Baranya;Igen;Igen
+2;Apple;iPhone 14;2019;256;90990;2;iOS;Unknown;Hibás;Győr-Moson-Sopron;Igen;Nem
+5;Motorola;Moto G54;2022;256;218990;1;Android;Unknown;Jó;Fejér;Igen;Nem
+2;Apple;iPhone 11;2019;128;84990;2;iOS;4000 to 5000;Újszerű;Csongrád-Csanád;Igen;Igen
+5;Motorola;Moto E13;2018;512;104990;1;Android;4000 to 5000;Hibás;Budapest;Igen;Nem
+2;Apple;iPhone 11;2021;64;121990;2;iOS;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Igen;Igen
+1;Samsung;Galaxy S21;2024;128;275990;1;Android;4000 to 5000;Újszerű;Borsod-Abaúj-Zemplén;Nem;Igen
+2;Apple;iPhone 14;2023;128;198990;2;iOS;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+3;Xiaomi;Redmi 10;2021;128;138990;1;Android;5000 to 6000;Jó;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy M33;2025;128;271990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Nem;Nem
+9;Other;Honor 90;2022;128;156990;1;Android;Unknown;Jó;Veszprém;Igen;Nem
+6;Huawei;P30;2017;64;43990;3;HarmonyOS;3000 to 4000;Hibás;Hajdú-Bihar;Nem;Nem
+9;Other;Oppo A78;2023;256;188990;1;Android;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Igen;Igen
+6;Huawei;Nova 9;2017;128;NA;1;Android;3000 to 4000;Jó;Baranya;Nem;Nem
+4;Google;Pixel 7;2023;32;166990;4;Unknown;4000 to 5000;Jó;Fejér;Nem;Nem
+1;Samsung;Galaxy A34;2021;128;127990;1;Android;Above 6000;Karcos;Budapest;Nem;Igen
+1;Samsung;Galaxy S21;2020;64;95990;4;Unknown;5000 to 6000;Újszerű;Csongrád-Csanád;Igen;Nem
+3;Xiaomi;Poco X5;2022;512;150990;1;Android;5000 to 6000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy S23;2018;256;65990;1;Android;5000 to 6000;Jó;Fejér;Nem;Nem
+2;Apple;iPhone SE;2020;128;NA;2;iOS;5000 to 6000;Jó;Nógrád;Nem;Igen
+2;Apple;iPhone 14;2018;256;57990;2;iOS;5000 to 6000;Jó;Budapest;Nem;Igen
+5;Motorola;Moto G54;2023;32;106990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Igen;Nem
+5;Motorola;Moto E13;2019;128;43990;1;Android;4000 to 5000;Hibás;Budapest;Igen;Igen
+3;Xiaomi;Xiaomi 13;2021;256;148990;4;Unknown;4000 to 5000;Karcos;Fejér;Nem;Igen
+7;OnePlus;Nord 3;2020;512;154990;1;Android;5000 to 6000;Újszerű;Bács-Kiskun;Nem;Nem
+8;Nokia;C32;2023;64;194990;1;Android;3000 to 4000;Újszerű;Zala;Nem;Nem
+2;Apple;iPhone SE;2024;128;289990;2;iOS;3000 to 4000;Jó;Bács-Kiskun;Igen;Nem
+2;Apple;iPhone 13;2018;64;NA;2;iOS;5000 to 6000;Karcos;Veszprém;Nem;Nem
+3;Xiaomi;Redmi 10;2017;32;23990;1;Android;4000 to 5000;Karcos;Győr-Moson-Sopron;Nem;Nem
+5;Motorola;Moto G54;2020;64;72990;1;Android;4000 to 5000;Karcos;Zala;Nem;Nem
+3;Xiaomi;Redmi Note 12;2020;256;100990;1;Android;3000 to 4000;Karcos;Pest;Nem;Nem
+8;Nokia;G21;2023;64;NA;1;Android;3000 to 4000;Újszerű;Zala;Nem;Nem
+3;Xiaomi;Xiaomi 13;2025;128;NA;1;Android;4000 to 5000;Jó;Veszprém;Nem;Nem
+4;Google;Pixel 8;2022;128;170990;1;Android;3000 to 4000;Hibás;Budapest;Nem;Igen
+7;OnePlus;OnePlus 9;2024;256;194990;1;Android;Unknown;Jó;Fejér;Nem;Nem
+3;Xiaomi;Xiaomi 13;2019;64;72990;1;Android;Under 3000;Hibás;Zala;Nem;Nem
+3;Xiaomi;Poco X5;2017;128;33990;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy A54;2020;128;NA;1;Android;4000 to 5000;Karcos;Pest;Nem;Nem
+7;OnePlus;OnePlus 9;2025;128;253990;1;Android;3000 to 4000;Jó;Fejér;Nem;Nem
+6;Huawei;P30;2022;128;127990;1;Android;Above 6000;Hibás;Veszprém;Nem;Nem
+9;Other;Realme 11;2020;512;137990;1;Android;4000 to 5000;Jó;Veszprém;Nem;Nem
+3;Xiaomi;Xiaomi 13;2021;256;NA;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy A54;2024;512;427990;1;Android;3000 to 4000;Újszerű;Budapest;Nem;Nem
+4;Google;Pixel 6a;2025;64;299990;1;Android;5000 to 6000;Karcos;Pest;Nem;Nem
+2;Apple;iPhone 14;2022;512;113990;2;iOS;4000 to 5000;Jó;Pest;Igen;Nem
+9;Other;Realme 11;2024;64;142990;1;Android;4000 to 5000;Újszerű;Pest;Nem;Igen
+3;Xiaomi;Xiaomi 13;2020;128;69990;1;Android;3000 to 4000;Jó;Pest;Nem;Nem
+7;OnePlus;OnePlus 9;2025;256;339990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Igen
+9;Other;Honor 90;2023;128;148990;1;Android;5000 to 6000;Hibás;Hajdú-Bihar;Nem;Nem
+4;Google;Pixel 7;2023;256;NA;1;Android;3000 to 4000;Hibás;Baranya;Nem;Igen
+8;Nokia;C32;2018;64;50990;1;Android;3000 to 4000;Jó;Fejér;Igen;Nem
+3;Xiaomi;Xiaomi 13;2020;512;110990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy S23;2020;256;88990;1;Android;5000 to 6000;Jó;Veszprém;Nem;Igen
+1;Samsung;Galaxy A34;2017;256;40990;1;Android;Unknown;Jó;Zala;Nem;Igen
+2;Apple;iPhone 14;2022;128;146990;2;iOS;3000 to 4000;Karcos;Csongrád-Csanád;Igen;Nem
+1;Samsung;Galaxy M33;2019;128;56990;1;Android;3000 to 4000;Hibás;Nógrád;Nem;Nem
+2;Apple;iPhone 11;2022;256;159990;2;iOS;5000 to 6000;Karcos;Budapest;Igen;Igen
+1;Samsung;Galaxy S21;2025;64;334990;1;Android;3000 to 4000;Hibás;Bács-Kiskun;Igen;Nem
+3;Xiaomi;Redmi Note 12;2020;32;82990;1;Android;4000 to 5000;Újszerű;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy A34;2017;256;61990;1;Android;4000 to 5000;Karcos;Győr-Moson-Sopron;Nem;Igen
+2;Apple;iPhone 11;2019;512;109990;2;iOS;3000 to 4000;Karcos;Csongrád-Csanád;Nem;Nem
+6;Huawei;P30;2023;128;232990;3;HarmonyOS;5000 to 6000;Jó;Baranya;Nem;Nem
+9;Other;Oppo A78;2022;32;137990;1;Android;5000 to 6000;Karcos;Bács-Kiskun;Igen;Igen
+5;Motorola;Moto E13;2024;128;272990;1;Android;4000 to 5000;Karcos;Fejér;Nem;Igen
+5;Motorola;Edge 40;2017;32;32990;1;Android;3000 to 4000;Karcos;Budapest;Igen;Igen
+2;Apple;iPhone 14;2024;128;258990;2;iOS;Unknown;Karcos;Budapest;Nem;Nem
+2;Apple;iPhone 14;2021;64;124990;2;iOS;3000 to 4000;Újszerű;Bács-Kiskun;Nem;Igen
+6;Huawei;P40 Lite;2022;32;116990;3;HarmonyOS;4000 to 5000;Jó;Fejér;Igen;Nem
+3;Xiaomi;Redmi 10;2021;256;136990;1;Android;3000 to 4000;Jó;Fejér;Nem;Igen
+2;Apple;iPhone 13;2017;256;49990;2;iOS;4000 to 5000;Jó;Pest;Nem;Igen
+1;Samsung;Galaxy S21;2019;128;68990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Redmi 10;2020;128;74990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Nem;Nem
+2;Apple;iPhone 11;2019;512;83990;2;iOS;4000 to 5000;Hibás;Baranya;Igen;Igen
+1;Samsung;Galaxy A34;2018;256;49990;1;Android;4000 to 5000;Karcos;Baranya;Igen;Igen
+3;Xiaomi;Poco X5;2020;64;83990;1;Android;5000 to 6000;Karcos;Budapest;Nem;Igen
+1;Samsung;Galaxy A34;2019;128;53990;1;Android;3000 to 4000;Hibás;Borsod-Abaúj-Zemplén;Igen;Nem
+2;Apple;iPhone 11;2022;256;149990;2;iOS;4000 to 5000;Jó;Bács-Kiskun;Nem;Nem
+3;Xiaomi;Redmi 10;2018;128;62990;1;Android;4000 to 5000;Jó;Nógrád;Nem;Nem
+1;Samsung;Galaxy A34;2022;256;191990;1;Android;3000 to 4000;Hibás;Pest;Nem;Igen
+2;Apple;iPhone 14;2022;128;173990;2;iOS;4000 to 5000;Jó;Budapest;Igen;Nem
+4;Google;Pixel 7;2024;512;301990;1;Android;5000 to 6000;Hibás;Hajdú-Bihar;Igen;Igen
+2;Apple;iPhone 13;2020;128;55990;2;iOS;Unknown;Jó;Fejér;Nem;Nem
+2;Apple;iPhone 12;2023;128;233990;2;iOS;3000 to 4000;Újszerű;Budapest;Nem;Igen
+1;Samsung;Galaxy S21;2022;128;145990;1;Android;Unknown;Karcos;Borsod-Abaúj-Zemplén;Igen;Igen
+9;Other;Honor 90;2023;128;150990;1;Android;Unknown;Karcos;Zala;Nem;Nem
+2;Apple;iPhone 11;2024;256;328990;2;iOS;4000 to 5000;Jó;Budapest;Igen;Nem
+6;Huawei;P30;2021;512;211990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Igen
+1;Samsung;Galaxy A34;2022;64;108990;1;Android;Unknown;Jó;Nógrád;Nem;Nem
+1;Samsung;Galaxy S23;2023;128;128990;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Nem;Igen
+2;Apple;iPhone 14;2023;256;171990;2;iOS;Unknown;Karcos;Veszprém;Nem;Nem
+9;Other;Honor 90;2017;64;26990;1;Android;4000 to 5000;Karcos;Fejér;Nem;Nem
+1;Samsung;Galaxy M33;2017;256;43990;1;Android;5000 to 6000;Karcos;Budapest;Nem;Nem
+4;Google;Pixel 7;2017;128;36990;1;Android;Under 3000;Újszerű;Budapest;Nem;Nem
+9;Other;Realme 11;2024;512;405990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+1;Samsung;Galaxy M33;2024;128;226990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2020;128;67990;2;iOS;4000 to 5000;Karcos;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Poco X5;2017;64;25990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone SE;2021;128;90990;2;iOS;4000 to 5000;Karcos;Hajdú-Bihar;Nem;Nem
+7;OnePlus;Nord CE;2022;128;96990;1;Android;5000 to 6000;Karcos;Pest;Nem;Nem
+1;Samsung;Galaxy S23;2018;64;53990;1;Android;4000 to 5000;Jó;Veszprém;Nem;Igen
+3;Xiaomi;Poco X5;2023;64;NA;1;Android;4000 to 5000;Karcos;Baranya;Nem;Nem
+3;Xiaomi;Redmi Note 12;2023;128;183990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Xiaomi 13;2017;128;27990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Igen;Nem
+9;Other;Oppo A78;2025;256;NA;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Igen;Igen
+3;Xiaomi;Redmi 10;2024;512;264990;1;Android;3000 to 4000;Karcos;Budapest;Igen;Nem
+3;Xiaomi;Poco X5;2024;256;232990;1;Android;3000 to 4000;Jó;Baranya;Nem;Igen
+1;Samsung;Galaxy S23;2025;128;345990;1;Android;4000 to 5000;Karcos;Bács-Kiskun;Igen;Nem
+9;Other;Realme 11;2025;64;247990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+3;Xiaomi;Xiaomi 13;2024;256;297990;1;Android;5000 to 6000;Jó;Budapest;Igen;Igen
+3;Xiaomi;Poco X5;2021;128;104990;1;Android;4000 to 5000;Karcos;Fejér;Nem;Igen
+1;Samsung;Galaxy S23;2018;128;61990;4;Unknown;3000 to 4000;Karcos;Győr-Moson-Sopron;Igen;Igen
+3;Xiaomi;Redmi Note 12;2024;256;363990;1;Android;3000 to 4000;Karcos;Budapest;Igen;Igen
+3;Xiaomi;Poco X5;2025;256;366990;1;Android;Unknown;Újszerű;Hajdú-Bihar;Nem;Nem
+4;Google;Pixel 8;2023;128;179990;1;Android;Unknown;Jó;Fejér;Nem;Nem
+2;Apple;iPhone 13;2018;128;66990;2;iOS;4000 to 5000;Hibás;Csongrád-Csanád;Igen;Nem
+9;Other;Sony Xperia 10;2022;128;120990;1;Android;Unknown;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 12;2017;64;31990;2;iOS;4000 to 5000;Jó;Pest;Nem;Nem
+7;OnePlus;OnePlus 9;2019;128;81990;1;Android;Above 6000;Jó;Budapest;Igen;Nem
+1;Samsung;Galaxy A54;2024;128;175990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+7;OnePlus;Nord CE;2020;32;71990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Igen
+9;Other;Sony Xperia 10;2025;128;200990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+1;Samsung;Galaxy S21;2018;128;63990;1;Android;5000 to 6000;Újszerű;Baranya;Nem;Igen
+1;Samsung;Galaxy A54;2022;64;119990;1;Android;5000 to 6000;Jó;Fejér;Igen;Igen
+6;Huawei;P30;2017;128;27990;1;Android;5000 to 6000;Karcos;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy A34;2019;256;92990;1;Android;Above 6000;Újszerű;Borsod-Abaúj-Zemplén;Nem;Igen
+9;Other;Realme 11;2017;128;NA;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A34;2021;128;97990;1;Android;5000 to 6000;Karcos;Zala;Igen;Nem
+1;Samsung;Galaxy S21;2019;32;62990;1;Android;3000 to 4000;Jó;Baranya;Nem;Nem
+9;Other;Honor 90;2019;256;69990;1;Android;4000 to 5000;Karcos;Csongrád-Csanád;Igen;Igen
+2;Apple;iPhone 13;2025;512;616990;2;iOS;Unknown;Karcos;Hajdú-Bihar;Igen;Igen
+5;Motorola;Moto G54;2025;128;313990;1;Android;5000 to 6000;Jó;Fejér;Nem;Nem
+2;Apple;iPhone 11;2019;32;54990;2;iOS;4000 to 5000;Jó;Budapest;Igen;Nem
+2;Apple;iPhone SE;2019;128;52990;2;iOS;4000 to 5000;Jó;Hajdú-Bihar;Nem;Nem
+9;Other;Honor 90;2022;256;185990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Nem;Igen
+5;Motorola;Edge 40;2020;256;76990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+4;Google;Pixel 8;2023;64;187990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+4;Google;Pixel 8;2018;64;41990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+9;Other;Oppo A78;2018;128;42990;1;Android;3000 to 4000;Karcos;Pest;Igen;Nem
+2;Apple;iPhone SE;2025;128;352990;2;iOS;5000 to 6000;Hibás;Borsod-Abaúj-Zemplén;Nem;Igen
+1;Samsung;Galaxy S21;2019;32;61990;1;Android;4000 to 5000;Jó;Zala;Nem;Igen
+1;Samsung;Galaxy M33;2021;128;73990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A54;2024;256;196990;1;Android;3000 to 4000;Karcos;Bács-Kiskun;Nem;Nem
+3;Xiaomi;Xiaomi 13;2021;512;116990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+7;OnePlus;Nord 3;2019;128;64990;1;Android;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+1;Samsung;Galaxy A54;2018;64;NA;1;Android;Under 3000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+3;Xiaomi;Xiaomi 13;2018;128;48990;1;Android;3000 to 4000;Jó;Bács-Kiskun;Igen;Igen
+1;Samsung;Galaxy M33;2019;128;75990;1;Android;5000 to 6000;Hibás;Budapest;Nem;Igen
+2;Apple;iPhone 13;2021;256;162990;2;iOS;Above 6000;Hibás;Baranya;Nem;Nem
+1;Samsung;Galaxy S21;2019;128;75990;1;Android;Above 6000;Karcos;Budapest;Igen;Nem
+8;Nokia;G21;2019;512;128990;1;Android;4000 to 5000;Karcos;Pest;Nem;Igen
+3;Xiaomi;Redmi 10;2023;256;215990;4;Unknown;Above 6000;Újszerű;Veszprém;Igen;Nem
+3;Xiaomi;Redmi 10;2024;64;248990;1;Android;4000 to 5000;Hibás;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2024;128;194990;1;Android;3000 to 4000;Jó;Fejér;Nem;Nem
+1;Samsung;Galaxy M33;2024;128;199990;1;Android;4000 to 5000;Újszerű;Győr-Moson-Sopron;Igen;Igen
+2;Apple;iPhone 11;2025;128;258990;2;iOS;3000 to 4000;Karcos;Fejér;Nem;Igen
+1;Samsung;Galaxy M33;2021;64;101990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Xiaomi 13;2023;512;372990;1;Android;4000 to 5000;Jó;Nógrád;Nem;Igen
+7;OnePlus;Nord CE;2021;128;141990;1;Android;Under 3000;Karcos;Fejér;Igen;Igen
+2;Apple;iPhone SE;2025;128;323990;2;iOS;Under 3000;Jó;Budapest;Nem;Nem
+9;Other;Sony Xperia 10;2023;128;179990;1;Android;3000 to 4000;Hibás;Nógrád;Nem;Nem
+3;Xiaomi;Poco X5;2024;32;156990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Nem;Igen
+2;Apple;iPhone 14;2017;256;61990;2;iOS;Above 6000;Karcos;Győr-Moson-Sopron;Nem;Igen
+4;Google;Pixel 6a;2021;128;76990;1;Android;3000 to 4000;Hibás;Pest;Nem;Igen
+2;Apple;iPhone 12;2020;256;131990;2;iOS;3000 to 4000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2019;256;88990;1;Android;4000 to 5000;Újszerű;Zala;Igen;Igen
+2;Apple;iPhone 13;2021;256;95990;2;iOS;4000 to 5000;Jó;Budapest;Nem;Igen
+3;Xiaomi;Redmi 10;2020;128;66990;1;Android;5000 to 6000;Újszerű;Baranya;Igen;Igen
+9;Other;Oppo A78;2025;64;279990;1;Android;3000 to 4000;Karcos;Budapest;Nem;Nem
+3;Xiaomi;Xiaomi 13;2022;128;166990;1;Android;5000 to 6000;Újszerű;Baranya;Nem;Nem
+2;Apple;iPhone 12;2017;32;36990;2;iOS;3000 to 4000;Karcos;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy S21;2025;64;274990;1;Android;4000 to 5000;Karcos;Nógrád;Nem;Igen
+6;Huawei;P30;2020;64;70990;1;Android;5000 to 6000;Jó;Budapest;Igen;Igen
+1;Samsung;Galaxy A34;2023;128;168990;1;Android;3000 to 4000;Újszerű;Csongrád-Csanád;Igen;Igen
+1;Samsung;Galaxy S21;2017;128;51990;1;Android;4000 to 5000;Jó;Zala;Igen;Nem
+1;Samsung;Galaxy A54;2022;128;NA;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Nem;Igen
+1;Samsung;Galaxy A34;2018;128;36990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+3;Xiaomi;Redmi 10;2018;128;56990;1;Android;Under 3000;Jó;Nógrád;Igen;Nem
+2;Apple;iPhone 12;2017;256;32990;2;iOS;Above 6000;Karcos;Pest;Nem;Igen
+1;Samsung;Galaxy A54;2019;128;80990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+9;Other;Oppo A78;2025;64;338990;1;Android;5000 to 6000;Karcos;Győr-Moson-Sopron;Nem;Igen
+5;Motorola;Moto G54;2025;64;258990;1;Android;Under 3000;Jó;Zala;Nem;Nem
+5;Motorola;Moto E13;2025;128;305990;1;Android;4000 to 5000;Hibás;Budapest;Nem;Nem
+2;Apple;iPhone SE;2021;64;116990;2;iOS;3000 to 4000;Újszerű;Fejér;Igen;Igen
+2;Apple;iPhone SE;2020;256;126990;2;iOS;3000 to 4000;Karcos;Budapest;Nem;Nem
+7;OnePlus;Nord 3;2025;64;253990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+8;Nokia;C32;2021;64;65990;1;Android;5000 to 6000;Újszerű;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy S23;2023;64;204990;1;Android;4000 to 5000;Jó;Budapest;Igen;Igen
+2;Apple;iPhone 12;2025;32;168990;2;iOS;4000 to 5000;Jó;Pest;Nem;Nem
+1;Samsung;Galaxy M33;2017;512;54990;1;Android;4000 to 5000;Jó;Zala;Nem;Nem
+8;Nokia;C32;2020;512;169990;1;Android;3000 to 4000;Jó;Nógrád;Nem;Igen
+1;Samsung;Galaxy S23;2017;64;26990;1;Android;3000 to 4000;Hibás;Budapest;Igen;Nem
+5;Motorola;Moto E13;2017;64;26990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+3;Xiaomi;Poco X5;2018;512;87990;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Igen;Igen
+7;OnePlus;Nord 3;2022;128;153990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Igen;Igen
+1;Samsung;Galaxy A34;2020;64;94990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+3;Xiaomi;Xiaomi 13;2020;128;87990;1;Android;Unknown;Karcos;Veszprém;Nem;Nem
+1;Samsung;Galaxy A34;2021;256;117990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A34;2020;256;91990;1;Android;5000 to 6000;Újszerű;Pest;Nem;Nem
+2;Apple;iPhone 13;2017;128;48990;2;iOS;4000 to 5000;Hibás;Baranya;Nem;Igen
+1;Samsung;Galaxy M33;2022;32;135990;1;Android;3000 to 4000;Karcos;Győr-Moson-Sopron;Nem;Igen
+6;Huawei;P30;2025;128;294990;1;Android;4000 to 5000;Karcos;Veszprém;Nem;Igen
+9;Other;Oppo A78;2024;256;256990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2023;32;120990;2;iOS;Under 3000;Újszerű;Budapest;Nem;Nem
+1;Samsung;Galaxy S21;2019;64;43990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy M33;2019;64;65990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2019;256;102990;2;iOS;3000 to 4000;Újszerű;Baranya;Nem;Igen
+3;Xiaomi;Xiaomi 13;2024;128;152990;1;Android;Above 6000;Újszerű;Baranya;Nem;Igen
+6;Huawei;P30;2023;64;199990;3;HarmonyOS;Unknown;Jó;Budapest;Nem;Nem
+9;Other;Sony Xperia 10;2022;512;273990;1;Android;3000 to 4000;Karcos;Baranya;Nem;Nem
+2;Apple;iPhone 14;2025;512;456990;2;iOS;5000 to 6000;Jó;Hajdú-Bihar;Nem;Igen
+5;Motorola;Edge 40;2024;128;278990;1;Android;4000 to 5000;Karcos;Győr-Moson-Sopron;Nem;Nem
+8;Nokia;C32;2021;32;61990;1;Android;3000 to 4000;Jó;Hajdú-Bihar;Igen;Nem
+2;Apple;iPhone 14;2024;128;172990;2;iOS;5000 to 6000;Jó;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy S23;2019;128;62990;1;Android;5000 to 6000;Karcos;Hajdú-Bihar;Nem;Nem
+9;Other;Oppo A78;2020;128;106990;1;Android;Under 3000;Jó;Hajdú-Bihar;Nem;Nem
+5;Motorola;Moto G54;2022;128;113990;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Nem;Igen
+2;Apple;iPhone 11;2024;64;183990;2;iOS;3000 to 4000;Jó;Budapest;Nem;Igen
+9;Other;Sony Xperia 10;2017;128;30990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy S21;2018;64;31990;1;Android;4000 to 5000;Karcos;Bács-Kiskun;Nem;Nem
+3;Xiaomi;Xiaomi 13;2025;128;349990;1;Android;4000 to 5000;Újszerű;Budapest;Nem;Nem
+8;Nokia;G21;2025;64;181990;1;Android;5000 to 6000;Karcos;Budapest;Igen;Nem
+8;Nokia;G21;2017;128;43990;1;Android;Unknown;Jó;Budapest;Nem;Igen
+2;Apple;iPhone SE;2018;256;69990;2;iOS;4000 to 5000;Jó;Fejér;Igen;Igen
+1;Samsung;Galaxy A54;2024;128;208990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+9;Other;Honor 90;2024;128;207990;1;Android;Above 6000;Jó;Győr-Moson-Sopron;Igen;Igen
+1;Samsung;Galaxy S23;2023;64;164990;1;Android;3000 to 4000;Jó;Bács-Kiskun;Nem;Nem
+1;Samsung;Galaxy A34;2021;256;127990;1;Android;3000 to 4000;Karcos;Nógrád;Igen;Igen
+3;Xiaomi;Redmi 10;2020;256;95990;1;Android;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+1;Samsung;Galaxy A54;2020;512;124990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy M33;2018;256;42990;1;Android;Under 3000;Jó;Pest;Igen;Igen
+4;Google;Pixel 7;2017;128;42990;1;Android;3000 to 4000;Hibás;Zala;Nem;Nem
+1;Samsung;Galaxy A54;2025;256;251990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+3;Xiaomi;Redmi 10;2018;64;41990;1;Android;Unknown;Karcos;Borsod-Abaúj-Zemplén;Igen;Nem
+9;Other;Sony Xperia 10;2021;128;97990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+6;Huawei;P40 Lite;2024;128;229990;3;HarmonyOS;3000 to 4000;Újszerű;Csongrád-Csanád;Nem;Igen
+5;Motorola;Edge 40;2022;64;159990;1;Android;4000 to 5000;Jó;Budapest;Igen;Nem
+7;OnePlus;OnePlus 9;2018;64;32990;1;Android;5000 to 6000;Jó;Fejér;Igen;Nem
+2;Apple;iPhone SE;2019;256;53990;2;iOS;5000 to 6000;Karcos;Veszprém;Nem;Nem
+2;Apple;iPhone SE;2020;128;84990;2;iOS;3000 to 4000;Hibás;Bács-Kiskun;Igen;Nem
+5;Motorola;Moto E13;2018;32;NA;1;Android;4000 to 5000;Újszerű;Zala;Nem;Igen
+9;Other;Honor 90;2021;256;102990;1;Android;Under 3000;Karcos;Győr-Moson-Sopron;Igen;Nem
+1;Samsung;Galaxy S21;2021;128;75990;1;Android;4000 to 5000;Karcos;Pest;Nem;Igen
+1;Samsung;Galaxy S21;2022;32;115990;1;Android;Under 3000;Jó;Csongrád-Csanád;Nem;Nem
+9;Other;Oppo A78;2019;128;56990;1;Android;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Igen;Igen
+7;OnePlus;Nord 3;2022;256;156990;1;Android;3000 to 4000;Jó;Nógrád;Nem;Igen
+5;Motorola;Moto G54;2017;256;45990;1;Android;4000 to 5000;Karcos;Nógrád;Nem;Igen
+6;Huawei;P30;2024;128;225990;1;Android;4000 to 5000;Hibás;Fejér;Nem;Nem
+4;Google;Pixel 7;2021;256;112990;1;Android;4000 to 5000;Jó;Pest;Nem;Igen
+1;Samsung;Galaxy A34;2017;64;40990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Igen;Igen
+2;Apple;iPhone 13;2023;256;242990;2;iOS;5000 to 6000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2018;512;80990;2;iOS;3000 to 4000;Újszerű;Pest;Nem;Nem
+4;Google;Pixel 6a;2017;256;51990;1;Android;Under 3000;Jó;Pest;Nem;Nem
+2;Apple;iPhone SE;2019;128;58990;2;iOS;3000 to 4000;Karcos;Zala;Nem;Nem
+2;Apple;iPhone 13;2024;128;283990;2;iOS;3000 to 4000;Karcos;Fejér;Nem;Igen
+2;Apple;iPhone 11;2024;32;153990;2;iOS;5000 to 6000;Karcos;Csongrád-Csanád;Nem;Nem
+5;Motorola;Moto E13;2025;256;360990;1;Android;5000 to 6000;Újszerű;Budapest;Igen;Igen
+1;Samsung;Galaxy S23;2025;256;247990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 12;2021;128;88990;2;iOS;4000 to 5000;Hibás;Budapest;Nem;Nem
+4;Google;Pixel 7;2021;128;99990;1;Android;3000 to 4000;Karcos;Bács-Kiskun;Igen;Igen
+1;Samsung;Galaxy M33;2020;128;108990;1;Android;5000 to 6000;Karcos;Budapest;Nem;Igen
+2;Apple;iPhone SE;2018;256;58990;2;iOS;4000 to 5000;Újszerű;Veszprém;Nem;Nem
+7;OnePlus;Nord CE;2022;128;NA;1;Android;3000 to 4000;Karcos;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy A34;2021;128;138990;1;Android;4000 to 5000;Újszerű;Zala;Nem;Nem
+3;Xiaomi;Redmi Note 12;2018;128;46990;1;Android;Under 3000;Karcos;Pest;Nem;Igen
+2;Apple;iPhone 11;2024;128;275990;2;iOS;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Igen
+1;Samsung;Galaxy S23;2018;128;61990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A34;2021;256;153990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+6;Huawei;Nova 9;2024;128;268990;1;Android;5000 to 6000;Karcos;Budapest;Igen;Nem
+8;Nokia;G21;2022;512;224990;1;Android;5000 to 6000;Jó;Budapest;Igen;Igen
+2;Apple;iPhone 12;2023;256;146990;2;iOS;3000 to 4000;Jó;Csongrád-Csanád;Nem;Nem
+2;Apple;iPhone 11;2023;256;189990;4;Unknown;5000 to 6000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 14;2023;64;195990;2;iOS;4000 to 5000;Hibás;Baranya;Nem;Igen
+2;Apple;iPhone 13;2021;256;240990;2;iOS;3000 to 4000;Jó;Pest;Igen;Nem
+3;Xiaomi;Redmi Note 12;2020;64;59990;1;Android;Under 3000;Jó;Zala;Igen;Nem
+2;Apple;iPhone SE;2021;256;120990;2;iOS;3000 to 4000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A54;2023;128;143990;1;Android;Under 3000;Újszerű;Budapest;Igen;Igen
+1;Samsung;Galaxy S23;2019;128;63990;1;Android;Unknown;Újszerű;Borsod-Abaúj-Zemplén;Igen;Igen
+6;Huawei;P30;2022;128;111990;3;HarmonyOS;Unknown;Újszerű;Budapest;Nem;Igen
+7;OnePlus;Nord 3;2020;128;96990;1;Android;5000 to 6000;Jó;Pest;Nem;Nem
+1;Samsung;Galaxy A34;2019;256;68990;1;Android;4000 to 5000;Karcos;Budapest;Nem;Nem
+9;Other;Oppo A78;2021;256;125990;1;Android;5000 to 6000;Karcos;Baranya;Igen;Nem
+3;Xiaomi;Redmi 10;2018;128;55990;1;Android;3000 to 4000;Karcos;Csongrád-Csanád;Nem;Nem
+6;Huawei;Nova 9;2020;64;84990;3;HarmonyOS;3000 to 4000;Jó;Csongrád-Csanád;Nem;Igen
+6;Huawei;Nova 9;2019;64;48990;1;Android;5000 to 6000;Jó;Csongrád-Csanád;Nem;Nem
+8;Nokia;C32;2024;512;432990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Nem;Igen
+3;Xiaomi;Redmi 10;2019;64;41990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Nem
+3;Xiaomi;Poco X5;2021;256;128990;1;Android;5000 to 6000;Karcos;Borsod-Abaúj-Zemplén;Igen;Nem
+2;Apple;iPhone 13;2024;512;261990;2;iOS;4000 to 5000;Újszerű;Győr-Moson-Sopron;Igen;Nem
+4;Google;Pixel 6a;2023;512;323990;1;Android;3000 to 4000;Jó;Budapest;Nem;Igen
+8;Nokia;X20;2017;64;43990;1;Android;Unknown;Jó;Zala;Igen;Nem
+9;Other;Honor 90;2020;128;60990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Igen;Igen
+5;Motorola;Moto G54;2024;128;261990;1;Android;4000 to 5000;Újszerű;Hajdú-Bihar;Nem;Igen
+3;Xiaomi;Poco X5;2024;512;275990;1;Android;Unknown;Jó;Fejér;Nem;Igen
+1;Samsung;Galaxy S23;2025;512;529990;4;Unknown;3000 to 4000;Újszerű;Borsod-Abaúj-Zemplén;Igen;Nem
+1;Samsung;Galaxy A34;2019;64;59990;4;Unknown;4000 to 5000;Jó;Baranya;Igen;Nem
+4;Google;Pixel 7;2024;32;149990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Nem;Nem
+1;Samsung;Galaxy M33;2020;128;110990;1;Android;4000 to 5000;Jó;Borsod-Abaúj-Zemplén;Nem;Nem
+2;Apple;iPhone 11;2020;128;109990;2;iOS;3000 to 4000;Karcos;Pest;Nem;Igen
+1;Samsung;Galaxy A34;2025;32;269990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+4;Google;Pixel 6a;2020;128;87990;1;Android;5000 to 6000;Hibás;Budapest;Igen;Igen
+5;Motorola;Edge 40;2025;128;387990;1;Android;4000 to 5000;Jó;Győr-Moson-Sopron;Igen;Nem
+5;Motorola;Moto E13;2017;64;33990;1;Android;4000 to 5000;Jó;Zala;Nem;Nem
+4;Google;Pixel 7;2025;256;NA;1;Android;5000 to 6000;Jó;Nógrád;Igen;Nem
+6;Huawei;P30;2022;64;97990;3;HarmonyOS;3000 to 4000;Jó;Hajdú-Bihar;Nem;Igen
+5;Motorola;Moto G54;2021;128;91990;1;Android;3000 to 4000;Újszerű;Fejér;Igen;Igen
+7;OnePlus;Nord 3;2020;128;82990;1;Android;4000 to 5000;Jó;Budapest;Nem;Igen
+1;Samsung;Galaxy S21;2022;512;232990;1;Android;4000 to 5000;Jó;Baranya;Nem;Nem
+4;Google;Pixel 7;2020;512;107990;1;Android;5000 to 6000;Jó;Veszprém;Nem;Nem
+6;Huawei;P30;2022;256;213990;1;Android;Under 3000;Jó;Csongrád-Csanád;Nem;Nem
+2;Apple;iPhone 13;2022;256;119990;4;Unknown;3000 to 4000;Jó;Csongrád-Csanád;Nem;Igen
+3;Xiaomi;Poco X5;2022;128;137990;1;Android;Unknown;Jó;Pest;Igen;Igen
+1;Samsung;Galaxy A34;2022;64;152990;1;Android;5000 to 6000;Jó;Pest;Nem;Igen
+2;Apple;iPhone 12;2024;128;202990;2;iOS;3000 to 4000;Jó;Fejér;Nem;Igen
+3;Xiaomi;Poco X5;2021;256;87990;4;Unknown;5000 to 6000;Jó;Baranya;Igen;Nem
+1;Samsung;Galaxy M33;2023;128;208990;1;Android;5000 to 6000;Hibás;Hajdú-Bihar;Nem;Nem
+1;Samsung;Galaxy S23;2025;64;324990;1;Android;Unknown;Hibás;Bács-Kiskun;Nem;Igen
+1;Samsung;Galaxy S21;2018;64;43990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+4;Google;Pixel 6a;2017;512;74990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Igen;Igen
+6;Huawei;P40 Lite;2023;128;197990;3;HarmonyOS;Under 3000;Jó;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2022;256;189990;1;Android;Unknown;Újszerű;Baranya;Nem;Igen
+1;Samsung;Galaxy A34;2023;128;134990;1;Android;3000 to 4000;Hibás;Győr-Moson-Sopron;Igen;Nem
+8;Nokia;X20;2021;128;104990;1;Android;4000 to 5000;Jó;Bács-Kiskun;Nem;Igen
+8;Nokia;G21;2024;64;249990;1;Android;4000 to 5000;Jó;Baranya;Igen;Nem
+9;Other;Sony Xperia 10;2022;256;203990;1;Android;Above 6000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy M33;2017;128;50990;1;Android;4000 to 5000;Karcos;Pest;Nem;Nem
+8;Nokia;X20;2021;256;93990;1;Android;Unknown;Karcos;Zala;Nem;Nem
+5;Motorola;Moto E13;2021;64;123990;1;Android;4000 to 5000;Jó;Hajdú-Bihar;Nem;Igen
+1;Samsung;Galaxy S23;2019;256;56990;1;Android;4000 to 5000;Újszerű;Győr-Moson-Sopron;Nem;Igen
+1;Samsung;Galaxy M33;2024;64;198990;1;Android;5000 to 6000;Hibás;Zala;Nem;Igen
+2;Apple;iPhone SE;2023;64;146990;2;iOS;4000 to 5000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2021;256;92990;2;iOS;5000 to 6000;Újszerű;Budapest;Nem;Igen
+9;Other;Realme 11;2020;128;96990;4;Unknown;3000 to 4000;Újszerű;Budapest;Igen;Nem
+1;Samsung;Galaxy A54;2019;512;100990;1;Android;5000 to 6000;Újszerű;Budapest;Nem;Nem
+3;Xiaomi;Redmi 10;2022;128;175990;1;Android;Above 6000;Hibás;Baranya;Nem;Igen
+1;Samsung;Galaxy S23;2017;128;41990;1;Android;5000 to 6000;Jó;Győr-Moson-Sopron;Nem;Nem
+7;OnePlus;Nord CE;2020;128;95990;1;Android;3000 to 4000;Jó;Győr-Moson-Sopron;Igen;Nem
+4;Google;Pixel 6a;2025;64;NA;1;Android;Unknown;Jó;Pest;Nem;Igen
+2;Apple;iPhone 11;2018;256;55990;2;iOS;5000 to 6000;Jó;Pest;Nem;Igen
+8;Nokia;G21;2018;512;79990;1;Android;3000 to 4000;Jó;Csongrád-Csanád;Nem;Nem
+8;Nokia;X20;2018;64;NA;1;Android;3000 to 4000;Karcos;Budapest;Igen;Nem
+6;Huawei;P40 Lite;2019;128;58990;1;Android;Under 3000;Jó;Győr-Moson-Sopron;Nem;Nem
+2;Apple;iPhone 12;2019;256;97990;2;iOS;5000 to 6000;Hibás;Budapest;Nem;Igen
+8;Nokia;C32;2024;256;315990;1;Android;4000 to 5000;Újszerű;Hajdú-Bihar;Igen;Igen
+3;Xiaomi;Redmi Note 12;2021;256;107990;1;Android;Under 3000;Jó;Győr-Moson-Sopron;Igen;Nem
+1;Samsung;Galaxy S21;2024;128;219990;1;Android;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+8;Nokia;G21;2019;256;95990;1;Android;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Igen;Igen
+2;Apple;iPhone SE;2019;64;69990;2;iOS;Under 3000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+1;Samsung;Galaxy M33;2018;64;52990;1;Android;Under 3000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy M33;2023;64;158990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 11;2018;128;66990;2;iOS;Unknown;Hibás;Nógrád;Nem;Nem
+6;Huawei;P40 Lite;2020;512;177990;1;Android;5000 to 6000;Jó;Budapest;Nem;Igen
+2;Apple;iPhone 14;2025;128;225990;2;iOS;5000 to 6000;Jó;Bács-Kiskun;Nem;Nem
+3;Xiaomi;Redmi Note 12;2022;256;211990;1;Android;3000 to 4000;Jó;Baranya;Nem;Nem
+2;Apple;iPhone 11;2024;128;290990;2;iOS;3000 to 4000;Hibás;Budapest;Nem;Igen
+1;Samsung;Galaxy A54;2022;256;190990;1;Android;4000 to 5000;Jó;Csongrád-Csanád;Nem;Nem
+1;Samsung;Galaxy S21;2017;32;40990;1;Android;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+8;Nokia;C32;2025;256;389990;1;Android;3000 to 4000;Jó;Budapest;Igen;Nem
+7;OnePlus;OnePlus 9;2022;128;138990;1;Android;3000 to 4000;Jó;Bács-Kiskun;Igen;Nem
+2;Apple;iPhone 12;2019;128;52990;2;iOS;Unknown;Jó;Fejér;Igen;Nem
+1;Samsung;Galaxy A54;2017;128;50990;1;Android;5000 to 6000;Hibás;Bács-Kiskun;Nem;Nem
+7;OnePlus;Nord 3;2025;128;301990;1;Android;Above 6000;Jó;Nógrád;Igen;Nem
+4;Google;Pixel 6a;2017;32;44990;1;Android;5000 to 6000;Karcos;Veszprém;Nem;Nem
+2;Apple;iPhone 11;2019;256;58990;2;iOS;4000 to 5000;Újszerű;Budapest;Nem;Nem
+3;Xiaomi;Redmi Note 12;2022;512;279990;1;Android;3000 to 4000;Karcos;Baranya;Nem;Igen
+3;Xiaomi;Redmi 10;2017;32;28990;1;Android;4000 to 5000;Karcos;Veszprém;Igen;Nem
+3;Xiaomi;Redmi Note 12;2024;256;237990;1;Android;4000 to 5000;Karcos;Pest;Nem;Igen
+1;Samsung;Galaxy S23;2018;512;97990;1;Android;Under 3000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+2;Apple;iPhone 13;2019;64;42990;2;iOS;4000 to 5000;Jó;Hajdú-Bihar;Igen;Nem
+1;Samsung;Galaxy A34;2024;256;325990;1;Android;4000 to 5000;Újszerű;Veszprém;Nem;Igen
+7;OnePlus;OnePlus 9;2020;64;91990;1;Android;3000 to 4000;Karcos;Fejér;Igen;Nem
+7;OnePlus;Nord 3;2022;128;183990;4;Unknown;4000 to 5000;Karcos;Budapest;Nem;Igen
+2;Apple;iPhone 11;2022;128;167990;2;iOS;3000 to 4000;Újszerű;Csongrád-Csanád;Igen;Nem
+9;Other;Realme 11;2024;256;331990;1;Android;4000 to 5000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy S21;2020;128;94990;1;Android;3000 to 4000;Jó;Nógrád;Igen;Nem
+1;Samsung;Galaxy M33;2023;128;157990;1;Android;4000 to 5000;Jó;Fejér;Nem;Igen
+7;OnePlus;Nord 3;2022;128;110990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+2;Apple;iPhone 14;2018;128;64990;2;iOS;3000 to 4000;Jó;Zala;Nem;Igen
+2;Apple;iPhone 11;2020;256;125990;2;iOS;Unknown;Karcos;Hajdú-Bihar;Nem;Nem
+7;OnePlus;OnePlus 9;2021;256;91990;1;Android;Under 3000;Jó;Zala;Nem;Igen
+3;Xiaomi;Poco X5;2017;256;61990;1;Android;4000 to 5000;Karcos;Hajdú-Bihar;Nem;Nem
+3;Xiaomi;Redmi Note 12;2018;512;58990;1;Android;Unknown;Hibás;Budapest;Nem;Nem
+5;Motorola;Moto G54;2021;256;153990;1;Android;Under 3000;Újszerű;Zala;Nem;Nem
+8;Nokia;X20;2020;128;60990;1;Android;3000 to 4000;Jó;Borsod-Abaúj-Zemplén;Igen;Nem
+6;Huawei;P40 Lite;2018;32;55990;1;Android;5000 to 6000;Jó;Pest;Nem;Igen
+5;Motorola;Edge 40;2017;256;35990;1;Android;4000 to 5000;Karcos;Győr-Moson-Sopron;Nem;Igen
+3;Xiaomi;Redmi Note 12;2024;128;296990;1;Android;3000 to 4000;Újszerű;Pest;Igen;Igen
+9;Other;Sony Xperia 10;2019;128;77990;1;Android;3000 to 4000;Jó;Budapest;Nem;Nem
+1;Samsung;Galaxy A34;2023;512;371990;1;Android;5000 to 6000;Hibás;Nógrád;Nem;Igen
+6;Huawei;P40 Lite;2020;512;167990;3;HarmonyOS;4000 to 5000;Karcos;Budapest;Igen;Nem
+2;Apple;iPhone 11;2021;512;213990;2;iOS;3000 to 4000;Hibás;Budapest;Nem;Igen
+1;Samsung;Galaxy A34;2020;64;62990;1;Android;4000 to 5000;Hibás;Budapest;Nem;Igen
+9;Other;Sony Xperia 10;2022;128;150990;1;Android;5000 to 6000;Jó;Bács-Kiskun;Nem;Nem
+9;Other;Honor 90;2023;256;213990;1;Android;4000 to 5000;Karcos;Győr-Moson-Sopron;Nem;Igen
+3;Xiaomi;Redmi Note 12;2020;256;131990;4;Unknown;4000 to 5000;Jó;Budapest;Igen;Nem
+3;Xiaomi;Poco X5;2017;256;47990;1;Android;5000 to 6000;Újszerű;Pest;Nem;Nem
+1;Samsung;Galaxy A54;2024;32;218990;1;Android;4000 to 5000;Jó;Fejér;Igen;Nem
+5;Motorola;Moto E13;2024;64;239990;1;Android;5000 to 6000;Jó;Borsod-Abaúj-Zemplén;Nem;Igen
+2;Apple;iPhone 11;2018;256;69990;2;iOS;5000 to 6000;Karcos;Bács-Kiskun;Igen;Igen
+8;Nokia;X20;2022;64;153990;1;Android;4000 to 5000;Újszerű;Budapest;Nem;Nem
+3;Xiaomi;Redmi 10;2022;256;115990;1;Android;Unknown;Karcos;Budapest;Nem;Nem
+1;Samsung;Galaxy A54;2018;128;40990;1;Android;5000 to 6000;Jó;Fejér;Igen;Nem
+2;Apple;iPhone 13;2021;128;131990;2;iOS;5000 to 6000;Újszerű;Baranya;Nem;Nem
+2;Apple;iPhone 13;2018;128;39990;2;iOS;4000 to 5000;Hibás;Budapest;Igen;Nem
+2;Apple;iPhone 14;2024;128;206990;2;iOS;5000 to 6000;Újszerű;Budapest;Nem;Nem
+3;Xiaomi;Poco X5;2022;128;172990;1;Android;Above 6000;Karcos;Budapest;Nem;Nem
